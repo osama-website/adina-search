@@ -24621,5 +24621,273 @@
         "red_shirt_6_1931_pesh_dist_p099"
       ]
     }
+  ],
+  "books": {
+    "1968 .pdf": {
+      "cluster_id": 2,
+      "cluster_label": "Uncategorized",
+      "umap_2d": [
+        9.5095,
+        -0.9954
+      ]
+    },
+    "Afghan Jirga .pdf": {
+      "cluster_id": 2,
+      "cluster_label": "Uncategorized",
+      "umap_2d": [
+        -10.0,
+        3.6964
+      ]
+    },
+    "C-Red Shirt 3 Saddar 1931 .pdf": {
+      "cluster_id": 1,
+      "cluster_label": "department department confidential police confidential police department of police",
+      "umap_2d": [
+        3.7811,
+        -5.5064
+      ]
+    },
+    "C-Red Shirt 4. Banamari Incident pdf.pdf": {
+      "cluster_id": 1,
+      "cluster_label": "department department confidential police confidential police department of police",
+      "umap_2d": [
+        3.8278,
+        -7.509
+      ]
+    },
+    "C-Red Shirt 5 Pesh City 1931.pdf": {
+      "cluster_id": 1,
+      "cluster_label": "department department confidential police confidential police department of police",
+      "umap_2d": [
+        -1.1922,
+        -4.5215
+      ]
+    },
+    "C-Red Shirt 6 Pesh Dist 1936 .pdf": {
+      "cluster_id": 2,
+      "cluster_label": "Uncategorized",
+      "umap_2d": [
+        -3.6845,
+        0.8153
+      ]
+    },
+    "C-Red Shirt 7 Pesh City 1937 .pdf": {
+      "cluster_id": 0,
+      "cluster_label": "redshirts weekly diary he said daily diary and subjects",
+      "umap_2d": [
+        -5.2954,
+        3.2497
+      ]
+    },
+    "C-Red Shirt Pesh 1939_40.pdf": {
+      "cluster_id": 0,
+      "cluster_label": "redshirts weekly diary he said daily diary and subjects",
+      "umap_2d": [
+        -0.77,
+        10.0
+      ]
+    },
+    "C-Red Shirt Pesh 1940.pdf": {
+      "cluster_id": 0,
+      "cluster_label": "redshirts weekly diary he said daily diary and subjects",
+      "umap_2d": [
+        -4.6993,
+        6.7913
+      ]
+    },
+    "C-Red Shirt Pesh 1946_47.pdf": {
+      "cluster_id": 0,
+      "cluster_label": "redshirts weekly diary he said daily diary and subjects",
+      "umap_2d": [
+        2.2395,
+        7.1983
+      ]
+    },
+    "C-Red Shirt Pesh City 1938.pdf": {
+      "cluster_id": 0,
+      "cluster_label": "redshirts weekly diary he said daily diary and subjects",
+      "umap_2d": [
+        -1.087,
+        2.3076
+      ]
+    },
+    "C-Red Shirt Pesh City 1940.pdf": {
+      "cluster_id": 0,
+      "cluster_label": "redshirts weekly diary he said daily diary and subjects",
+      "umap_2d": [
+        -7.0577,
+        9.2962
+      ]
+    },
+    "C-Red Shirt Pesh City 1941. pdf.pdf": {
+      "cluster_id": 0,
+      "cluster_label": "redshirts weekly diary he said daily diary and subjects",
+      "umap_2d": [
+        -3.9252,
+        9.9535
+      ]
+    },
+    "C-Red Shirt Pesh City 1945.pdf": {
+      "cluster_id": 0,
+      "cluster_label": "redshirts weekly diary he said daily diary and subjects",
+      "umap_2d": [
+        -1.0296,
+        6.102
+      ]
+    },
+    "C-Red Shirt Pesh Dist 1941_42.pdf": {
+      "cluster_id": 0,
+      "cluster_label": "redshirts weekly diary he said daily diary and subjects",
+      "umap_2d": [
+        2.4944,
+        2.6389
+      ]
+    },
+    "C-Red Shirts 1. Pesh City 1930 pdf.pdf": {
+      "cluster_id": 1,
+      "cluster_label": "department department confidential police confidential police department of police",
+      "umap_2d": [
+        6.3031,
+        -10.0
+      ]
+    },
+    "C-Red Shirts 2 Pesh City 1930.pdf": {
+      "cluster_id": 1,
+      "cluster_label": "department department confidential police confidential police department of police",
+      "umap_2d": [
+        2.407,
+        -3.2251
+      ]
+    },
+    "CamScanner 15-01-2026 14.10.pdf": {
+      "cluster_id": 0,
+      "cluster_label": "redshirts weekly diary he said daily diary and subjects",
+      "umap_2d": [
+        -8.9144,
+        6.0409
+      ]
+    },
+    "CamScanner 15-01-2026 14.48.pdf": {
+      "cluster_id": 1,
+      "cluster_label": "department department confidential police confidential police department of police",
+      "umap_2d": [
+        5.9488,
+        -1.8514
+      ]
+    },
+    "Khilafat posters.pdf": {
+      "cluster_id": 1,
+      "cluster_label": "department department confidential police confidential police department of police",
+      "umap_2d": [
+        2.5784,
+        -9.9399
+      ]
+    },
+    "Khudai Khidmatgar 1946 .pdf": {
+      "cluster_id": 1,
+      "cluster_label": "department department confidential police confidential police department of police",
+      "umap_2d": [
+        7.1071,
+        -6.7692
+      ]
+    },
+    "Red Shirt 6 1931 Pesh Dist.pdf": {
+      "cluster_id": 1,
+      "cluster_label": "department department confidential police confidential police department of police",
+      "umap_2d": [
+        -0.5072,
+        -7.1829
+      ]
+    },
+    "Tribal Research Cell 1968.pdf": {
+      "cluster_id": 1,
+      "cluster_label": "department department confidential police confidential police department of police",
+      "umap_2d": [
+        10.0,
+        -3.7445
+      ]
+    }
+  },
+  "book_clusters": [
+    {
+      "id": 0,
+      "label": "redshirts weekly diary he said daily diary and subjects",
+      "top_terms": [
+        "redshirts",
+        "weekly",
+        "diary",
+        "he said",
+        "daily diary",
+        "and subjects",
+        "daily",
+        "subjects",
+        "the empire",
+        "names and"
+      ],
+      "book_count": 10,
+      "book_ids": [
+        "C-Red Shirt 7 Pesh City 1937 .pdf",
+        "C-Red Shirt Pesh 1939_40.pdf",
+        "C-Red Shirt Pesh 1940.pdf",
+        "C-Red Shirt Pesh 1946_47.pdf",
+        "C-Red Shirt Pesh City 1938.pdf",
+        "C-Red Shirt Pesh City 1940.pdf",
+        "C-Red Shirt Pesh City 1941. pdf.pdf",
+        "C-Red Shirt Pesh City 1945.pdf",
+        "C-Red Shirt Pesh Dist 1941_42.pdf",
+        "CamScanner 15-01-2026 14.10.pdf"
+      ]
+    },
+    {
+      "id": 1,
+      "label": "department department confidential police confidential police department of police",
+      "top_terms": [
+        "department",
+        "department confidential",
+        "police",
+        "confidential",
+        "police department",
+        "of police",
+        "son of",
+        "red-shirts",
+        "you",
+        "son"
+      ],
+      "book_count": 10,
+      "book_ids": [
+        "C-Red Shirt 3 Saddar 1931 .pdf",
+        "C-Red Shirt 4. Banamari Incident pdf.pdf",
+        "C-Red Shirt 5 Pesh City 1931.pdf",
+        "C-Red Shirts 1. Pesh City 1930 pdf.pdf",
+        "C-Red Shirts 2 Pesh City 1930.pdf",
+        "CamScanner 15-01-2026 14.48.pdf",
+        "Khilafat posters.pdf",
+        "Khudai Khidmatgar 1946 .pdf",
+        "Red Shirt 6 1931 Pesh Dist.pdf",
+        "Tribal Research Cell 1968.pdf"
+      ]
+    },
+    {
+      "id": 2,
+      "label": "Uncategorized",
+      "top_terms": [
+        "brothel",
+        "board",
+        "afghan",
+        "parliamentary",
+        "jirga",
+        "the afghan",
+        "sons govt",
+        "city brothel",
+        "subjects",
+        "peshawar- forms"
+      ],
+      "book_count": 3,
+      "book_ids": [
+        "1968 .pdf",
+        "Afghan Jirga .pdf",
+        "C-Red Shirt 6 Pesh Dist 1936 .pdf"
+      ]
+    }
   ]
 }
