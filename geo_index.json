@@ -2,7 +2,7 @@
   "meta": {
     "generated_at": "2026-04-02T21:37:10.183972",
     "total_place_names_found": 2331,
-    "total_geocoded": 434,
+    "total_geocoded": 268,
     "total_unmatched": 1897,
     "unmatched_no_context": 261
   },
@@ -21,7 +21,7 @@
         "regex_original",
         "ner_english"
       ],
-      "page_count": 1288,
+      "page_count": 1335,
       "page_ids": [
         "1968_p010",
         "1968_p012",
@@ -1310,7 +1310,93 @@
         "tribal_research_cell_1968_p003",
         "tribal_research_cell_1968_p004",
         "tribal_research_cell_1968_p005",
-        "tribal_research_cell_1968_p009"
+        "tribal_research_cell_1968_p009",
+        "c_red_shirt_5_pesh_city_1931_p059",
+        "c_red_shirt_7_pesh_city_1937_p208",
+        "c_red_shirt_7_pesh_city_1937_p069",
+        "c_red_shirt_pesh_1940_p045",
+        "c_red_shirt_pesh_city_1938_p137",
+        "c_red_shirt_pesh_city_1945_p048",
+        "c_red_shirts_2_pesh_city_1930_p028",
+        "1968_p009",
+        "afghan_jirga_p033",
+        "c_red_shirt_3_saddar_1931_p220",
+        "c_red_shirt_pesh_1939_40_p010",
+        "c_red_shirt_pesh_1940_p008",
+        "c_red_shirt_pesh_city_1938_p110",
+        "c_red_shirt_pesh_city_1938_p141",
+        "camscanner_15_01_2026_1410_p056",
+        "afghan_jirga_p132",
+        "afghan_jirga_p046",
+        "afghan_jirga_p064",
+        "c_red_shirt_7_pesh_city_1937_p173",
+        "c_red_shirt_pesh_1946_47_p039",
+        "c_red_shirt_pesh_city_1938_p027",
+        "c_red_shirt_pesh_city_1938_p030",
+        "camscanner_15_01_2026_1410_p120",
+        "camscanner_15_01_2026_1410_p047",
+        "khudai_khidmatgar_1946_p045",
+        "c_red_shirt_6_pesh_dist_1936_p064",
+        "c_red_shirt_7_pesh_city_1937_p130",
+        "c_red_shirt_pesh_1940_p007",
+        "c_red_shirt_pesh_city_1938_p176",
+        "c_red_shirt_pesh_city_1945_p031",
+        "c_red_shirt_pesh_city_1945_p099",
+        "c_red_shirt_pesh_dist_1941_42_p048",
+        "camscanner_15_01_2026_1410_p009",
+        "c_red_shirt_7_pesh_city_1937_p170",
+        "c_red_shirt_3_saddar_1931_p099",
+        "c_red_shirt_6_pesh_dist_1936_p040",
+        "c_red_shirt_pesh_1940_p018",
+        "c_red_shirt_pesh_1940_p028",
+        "c_red_shirts_2_pesh_city_1930_p021",
+        "c_red_shirt_7_pesh_city_1937_p032",
+        "c_red_shirt_pesh_1946_47_p098",
+        "camscanner_15_01_2026_1410_p121",
+        "c_red_shirt_pesh_1939_40_p001",
+        "c_red_shirt_pesh_city_1945_p030",
+        "c_red_shirt_pesh_1939_40_p004",
+        "c_red_shirt_pesh_city_1938_p074",
+        "c_red_shirt_pesh_city_1945_p002"
+      ],
+      "merged_aliases": [
+        "City Peshawar",
+        "Feshawar",
+        "Feshuwar",
+        "Pashawar",
+        "Pechawar",
+        "Pekha",
+        "Penhawar",
+        "Pesawar",
+        "Pesha",
+        "Peshaar",
+        "Peshamar",
+        "Peshamr",
+        "Peshaner",
+        "Peshave",
+        "Peshaver",
+        "Peshaver City",
+        "Peshaw",
+        "Peshawa",
+        "Peshawar City",
+        "Peshawarch",
+        "Peshawer",
+        "Peshawer City",
+        "Pesheer",
+        "Pesherer",
+        "Peshevar",
+        "Peshever",
+        "Peshewar",
+        "Peshewar City",
+        "Peshewer",
+        "Peshewer City",
+        "Peshower",
+        "Peshwar",
+        "Pesunwar",
+        "Porhawar",
+        "Poshawar",
+        "Poshawar City",
+        "Shave"
       ]
     },
     "Lahore": {
@@ -1327,7 +1413,7 @@
         "regex_original",
         "ner_english"
       ],
-      "page_count": 118,
+      "page_count": 130,
       "page_ids": [
         "1968_p011",
         "1968_p012",
@@ -1446,50 +1532,27 @@
         "tribal_research_cell_1968_p019",
         "tribal_research_cell_1968_p025",
         "tribal_research_cell_1968_p026",
-        "tribal_research_cell_1968_p009"
-      ]
-    },
-    "Feshawar": {
-      "lat": 34.0151,
-      "lon": 71.5249,
-      "type": "city",
-      "note": "Capital of the North-West Frontier Province",
-      "parent_city": null,
-      "source": "gazetteer_exact",
-      "matched_to": "Peshawar",
-      "confidence": 0.9,
-      "found_in_sources": [
-        "ner_english",
-        "regex_english"
+        "tribal_research_cell_1968_p009",
+        "1968_p035",
+        "1968_p004",
+        "tribal_research_cell_1968_p021",
+        "c_red_shirt_pesh_1940_p006",
+        "c_red_shirt_pesh_city_1941_pdf_p046",
+        "c_red_shirt_pesh_city_1941_pdf_p047",
+        "c_red_shirt_pesh_city_1941_pdf_p048",
+        "red_shirt_6_1931_pesh_dist_p010",
+        "red_shirt_6_1931_pesh_dist_p044",
+        "red_shirt_6_1931_pesh_dist_p073",
+        "red_shirt_6_1931_pesh_dist_p077",
+        "red_shirt_6_1931_pesh_dist_p080"
       ],
-      "page_count": 26,
-      "page_ids": [
-        "1968_p012",
-        "1968_p014",
-        "1968_p032",
-        "c_red_shirt_3_saddar_1931_p199",
-        "c_red_shirt_3_saddar_1931_p201",
-        "c_red_shirt_3_saddar_1931_p229",
-        "c_red_shirt_5_pesh_city_1931_p104",
-        "c_red_shirt_5_pesh_city_1931_p126",
-        "c_red_shirt_5_pesh_city_1931_p127",
-        "c_red_shirt_5_pesh_city_1931_p059",
-        "c_red_shirt_7_pesh_city_1937_p208",
-        "c_red_shirt_7_pesh_city_1937_p069",
-        "c_red_shirt_pesh_1939_40_p044",
-        "c_red_shirt_pesh_1940_p045",
-        "c_red_shirt_pesh_1946_47_p048",
-        "c_red_shirt_pesh_city_1938_p137",
-        "c_red_shirt_pesh_city_1938_p186",
-        "c_red_shirt_pesh_city_1945_p001",
-        "c_red_shirt_pesh_city_1945_p020",
-        "c_red_shirt_pesh_city_1945_p048",
-        "c_red_shirts_2_pesh_city_1930_p024",
-        "c_red_shirts_2_pesh_city_1930_p028",
-        "red_shirt_6_1931_pesh_dist_p087",
-        "red_shirt_6_1931_pesh_dist_p099",
-        "tribal_research_cell_1968_p010",
-        "tribal_research_cell_1968_p021"
+      "merged_aliases": [
+        "Lahare",
+        "Lahor",
+        "Lahorefiring",
+        "Lahori",
+        "Masjid Lahor",
+        "Mohalleh Lahorian"
       ]
     },
     "Tehkal": {
@@ -1505,7 +1568,7 @@
         "ner_english",
         "regex_english"
       ],
-      "page_count": 120,
+      "page_count": 268,
       "page_ids": [
         "1968_p014",
         "1968_p016",
@@ -1626,251 +1689,167 @@
         "red_shirt_6_1931_pesh_dist_p048",
         "red_shirt_6_1931_pesh_dist_p049",
         "red_shirt_6_1931_pesh_dist_p063",
-        "red_shirt_6_1931_pesh_dist_p089"
-      ]
-    },
-    "Nowshers": {
-      "lat": 34.0153,
-      "lon": 71.9747,
-      "type": "town",
-      "note": "Garrison town on the Grand Trunk Road",
-      "parent_city": null,
-      "source": "gazetteer_exact",
-      "matched_to": "Nowshera",
-      "confidence": 0.9,
-      "found_in_sources": [
-        "ner_english",
-        "regex_english"
-      ],
-      "page_count": 10,
-      "page_ids": [
-        "1968_p015",
-        "afghan_jirga_p058",
-        "c_red_shirt_7_pesh_city_1937_p091",
-        "c_red_shirt_pesh_1940_p083",
-        "c_red_shirt_pesh_city_1938_p035",
-        "camscanner_15_01_2026_1410_p051",
-        "camscanner_15_01_2026_1410_p053",
-        "camscanner_15_01_2026_1410_p054",
-        "camscanner_15_01_2026_1410_p091",
-        "tribal_research_cell_1968_p011"
-      ]
-    },
-    "Peshawar City": {
-      "lat": 34.0151,
-      "lon": 71.5249,
-      "type": "city",
-      "note": "Capital of the North-West Frontier Province",
-      "parent_city": null,
-      "source": "gazetteer_substring",
-      "matched_to": "Peshawar",
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 181,
-      "page_ids": [
-        "1968_p015",
-        "afghan_jirga_p102",
-        "afghan_jirga_p116",
+        "red_shirt_6_1931_pesh_dist_p089",
+        "1968_p032",
+        "afghan_jirga_p100",
+        "afghan_jirga_p112",
+        "afghan_jirga_p117",
+        "afghan_jirga_p128",
+        "afghan_jirga_p017",
+        "afghan_jirga_p002",
         "afghan_jirga_p022",
-        "afghan_jirga_p034",
-        "afghan_jirga_p037",
-        "c_red_shirt_5_pesh_city_1931_p100",
-        "c_red_shirt_5_pesh_city_1931_p107",
-        "c_red_shirt_5_pesh_city_1931_p116",
-        "c_red_shirt_5_pesh_city_1931_p013",
-        "c_red_shirt_5_pesh_city_1931_p142",
-        "c_red_shirt_5_pesh_city_1931_p018",
-        "c_red_shirt_5_pesh_city_1931_p027",
-        "c_red_shirt_5_pesh_city_1931_p033",
-        "c_red_shirt_5_pesh_city_1931_p037",
-        "c_red_shirt_5_pesh_city_1931_p041",
-        "c_red_shirt_5_pesh_city_1931_p053",
-        "c_red_shirt_5_pesh_city_1931_p079",
-        "c_red_shirt_5_pesh_city_1931_p093",
-        "c_red_shirt_6_pesh_dist_1936_p131",
-        "c_red_shirt_6_pesh_dist_1936_p020",
-        "c_red_shirt_6_pesh_dist_1936_p051",
-        "c_red_shirt_6_pesh_dist_1936_p090",
-        "c_red_shirt_7_pesh_city_1937_p114",
-        "c_red_shirt_7_pesh_city_1937_p171",
-        "c_red_shirt_7_pesh_city_1937_p172",
-        "c_red_shirt_7_pesh_city_1937_p048",
-        "c_red_shirt_7_pesh_city_1937_p082",
-        "c_red_shirt_pesh_1939_40_p102",
-        "c_red_shirt_pesh_1939_40_p103",
-        "c_red_shirt_pesh_1939_40_p117",
-        "c_red_shirt_pesh_1939_40_p118",
-        "c_red_shirt_pesh_1939_40_p124",
-        "c_red_shirt_pesh_1939_40_p126",
-        "c_red_shirt_pesh_1939_40_p127",
-        "c_red_shirt_pesh_1939_40_p016",
-        "c_red_shirt_pesh_1939_40_p017",
-        "c_red_shirt_pesh_1939_40_p019",
-        "c_red_shirt_pesh_1939_40_p026",
-        "c_red_shirt_pesh_1939_40_p027",
-        "c_red_shirt_pesh_1939_40_p030",
-        "c_red_shirt_pesh_1939_40_p031",
-        "c_red_shirt_pesh_1939_40_p034",
-        "c_red_shirt_pesh_1939_40_p036",
-        "c_red_shirt_pesh_1939_40_p039",
-        "c_red_shirt_pesh_1939_40_p040",
-        "c_red_shirt_pesh_1939_40_p047",
-        "c_red_shirt_pesh_1939_40_p050",
-        "c_red_shirt_pesh_1939_40_p053",
-        "c_red_shirt_pesh_1939_40_p006",
-        "c_red_shirt_pesh_1939_40_p060",
-        "c_red_shirt_pesh_1940_p012",
-        "c_red_shirt_pesh_1940_p122",
-        "c_red_shirt_pesh_1940_p126",
-        "c_red_shirt_pesh_1940_p128",
-        "c_red_shirt_pesh_1940_p013",
-        "c_red_shirt_pesh_1940_p130",
-        "c_red_shirt_pesh_1940_p133",
-        "c_red_shirt_pesh_1940_p136",
-        "c_red_shirt_pesh_1940_p138",
-        "c_red_shirt_pesh_1940_p139",
-        "c_red_shirt_pesh_1940_p014",
-        "c_red_shirt_pesh_1940_p140",
-        "c_red_shirt_pesh_1940_p141",
-        "c_red_shirt_pesh_1940_p145",
-        "c_red_shirt_pesh_1940_p147",
-        "c_red_shirt_pesh_1940_p149",
-        "c_red_shirt_pesh_1940_p015",
-        "c_red_shirt_pesh_1940_p152",
-        "c_red_shirt_pesh_1940_p153",
-        "c_red_shirt_pesh_1940_p155",
-        "c_red_shirt_pesh_1940_p156",
-        "c_red_shirt_pesh_1940_p016",
-        "c_red_shirt_pesh_1940_p019",
-        "c_red_shirt_pesh_1940_p057",
-        "c_red_shirt_pesh_1940_p084",
-        "c_red_shirt_pesh_1940_p085",
+        "afghan_jirga_p025",
+        "afghan_jirga_p026",
+        "afghan_jirga_p028",
+        "afghan_jirga_p036",
+        "afghan_jirga_p040",
+        "afghan_jirga_p041",
+        "afghan_jirga_p049",
+        "afghan_jirga_p055",
+        "afghan_jirga_p058",
+        "afghan_jirga_p060",
+        "afghan_jirga_p069",
+        "afghan_jirga_p072",
+        "afghan_jirga_p074",
+        "afghan_jirga_p087",
+        "afghan_jirga_p088",
+        "c_red_shirt_3_saddar_1931_p064",
+        "c_red_shirt_6_pesh_dist_1936_p026",
+        "c_red_shirt_6_pesh_dist_1936_p029",
+        "c_red_shirt_6_pesh_dist_1936_p065",
         "c_red_shirt_pesh_1940_p089",
-        "c_red_shirt_pesh_1946_47_p118",
-        "c_red_shirt_pesh_1946_47_p013",
-        "c_red_shirt_pesh_1946_47_p014",
-        "c_red_shirt_pesh_1946_47_p015",
-        "c_red_shirt_pesh_1946_47_p019",
-        "c_red_shirt_pesh_1946_47_p022",
-        "c_red_shirt_pesh_1946_47_p023",
+        "c_red_shirt_pesh_1940_p098",
+        "c_red_shirt_pesh_dist_1941_42_p103",
+        "c_red_shirt_pesh_dist_1941_42_p035",
+        "c_red_shirt_pesh_dist_1941_42_p036",
+        "c_red_shirt_pesh_dist_1941_42_p042",
+        "c_red_shirt_pesh_dist_1941_42_p047",
+        "c_red_shirt_pesh_dist_1941_42_p059",
+        "c_red_shirt_pesh_dist_1941_42_p071",
+        "c_red_shirt_pesh_dist_1941_42_p083",
+        "camscanner_15_01_2026_1410_p107",
+        "camscanner_15_01_2026_1410_p117",
+        "camscanner_15_01_2026_1410_p120",
+        "camscanner_15_01_2026_1410_p122",
+        "camscanner_15_01_2026_1410_p124",
+        "camscanner_15_01_2026_1410_p129",
+        "camscanner_15_01_2026_1410_p013",
+        "camscanner_15_01_2026_1410_p133",
+        "camscanner_15_01_2026_1410_p017",
+        "camscanner_15_01_2026_1410_p032",
+        "camscanner_15_01_2026_1410_p046",
+        "camscanner_15_01_2026_1410_p053",
+        "camscanner_15_01_2026_1410_p057",
+        "camscanner_15_01_2026_1410_p060",
+        "camscanner_15_01_2026_1410_p061",
+        "camscanner_15_01_2026_1410_p067",
+        "camscanner_15_01_2026_1410_p074",
+        "camscanner_15_01_2026_1410_p089",
+        "camscanner_15_01_2026_1410_p097",
+        "tribal_research_cell_1968_p017",
+        "afghan_jirga_p012",
+        "c_red_shirt_6_pesh_dist_1936_p016",
+        "c_red_shirt_pesh_1940_p018",
+        "c_red_shirt_pesh_city_1938_p065",
+        "c_red_shirt_pesh_city_1940_p025",
+        "c_red_shirt_pesh_dist_1941_42_p110",
+        "afghan_jirga_p135",
+        "afghan_jirga_p015",
+        "c_red_shirt_3_saddar_1931_p010",
+        "c_red_shirt_3_saddar_1931_p011",
+        "c_red_shirt_3_saddar_1931_p113",
+        "c_red_shirt_3_saddar_1931_p114",
+        "c_red_shirt_3_saddar_1931_p117",
+        "c_red_shirt_3_saddar_1931_p120",
+        "c_red_shirt_3_saddar_1931_p139",
+        "c_red_shirt_3_saddar_1931_p178",
+        "c_red_shirt_3_saddar_1931_p222",
+        "c_red_shirt_3_saddar_1931_p223",
+        "c_red_shirt_3_saddar_1931_p033",
+        "c_red_shirt_3_saddar_1931_p004",
+        "c_red_shirt_3_saddar_1931_p045",
+        "c_red_shirt_3_saddar_1931_p055",
+        "c_red_shirt_3_saddar_1931_p008",
+        "c_red_shirt_3_saddar_1931_p080",
+        "c_red_shirt_5_pesh_city_1931_p140",
+        "c_red_shirt_5_pesh_city_1931_p163",
+        "c_red_shirt_6_pesh_dist_1936_p119",
+        "c_red_shirt_pesh_dist_1941_42_p091",
+        "c_red_shirt_pesh_dist_1941_42_p094",
+        "c_red_shirts_1_pesh_city_1930_pdf_p012",
+        "c_red_shirts_1_pesh_city_1930_pdf_p028",
+        "c_red_shirts_1_pesh_city_1930_pdf_p031",
+        "camscanner_15_01_2026_1410_p130",
+        "camscanner_15_01_2026_1410_p063",
+        "red_shirt_6_1931_pesh_dist_p004",
+        "red_shirt_6_1931_pesh_dist_p042",
+        "red_shirt_6_1931_pesh_dist_p053",
+        "red_shirt_6_1931_pesh_dist_p055",
+        "red_shirt_6_1931_pesh_dist_p061",
+        "red_shirt_6_1931_pesh_dist_p066",
+        "red_shirt_6_1931_pesh_dist_p067",
+        "red_shirt_6_1931_pesh_dist_p071",
+        "red_shirt_6_1931_pesh_dist_p077",
+        "c_red_shirt_3_saddar_1931_p102",
+        "camscanner_15_01_2026_1410_p080",
+        "c_red_shirt_3_saddar_1931_p035",
+        "c_red_shirt_6_pesh_dist_1936_p019",
         "c_red_shirt_pesh_1946_47_p024",
-        "c_red_shirt_pesh_1946_47_p004",
-        "c_red_shirt_pesh_1946_47_p045",
-        "c_red_shirt_pesh_1946_47_p052",
-        "c_red_shirt_pesh_1946_47_p057",
-        "c_red_shirt_pesh_1946_47_p058",
-        "c_red_shirt_pesh_1946_47_p006",
-        "c_red_shirt_pesh_1946_47_p065",
-        "c_red_shirt_pesh_1946_47_p066",
-        "c_red_shirt_pesh_1946_47_p067",
-        "c_red_shirt_pesh_1946_47_p070",
-        "c_red_shirt_pesh_1946_47_p071",
-        "c_red_shirt_pesh_1946_47_p072",
-        "c_red_shirt_pesh_1946_47_p074",
-        "c_red_shirt_pesh_1946_47_p075",
-        "c_red_shirt_pesh_1946_47_p076",
-        "c_red_shirt_pesh_1946_47_p077",
-        "c_red_shirt_pesh_1946_47_p078",
-        "c_red_shirt_pesh_1946_47_p080",
-        "c_red_shirt_pesh_1946_47_p082",
-        "c_red_shirt_pesh_1946_47_p095",
-        "c_red_shirt_pesh_city_1938_p127",
-        "c_red_shirt_pesh_city_1938_p130",
-        "c_red_shirt_pesh_city_1938_p154",
-        "c_red_shirt_pesh_city_1938_p157",
-        "c_red_shirt_pesh_city_1938_p215",
-        "c_red_shirt_pesh_city_1938_p231",
-        "c_red_shirt_pesh_city_1938_p024",
-        "c_red_shirt_pesh_city_1938_p039",
-        "c_red_shirt_pesh_city_1938_p053",
-        "c_red_shirt_pesh_city_1938_p060",
-        "c_red_shirt_pesh_city_1938_p093",
-        "c_red_shirt_pesh_city_1938_p094",
-        "c_red_shirt_pesh_city_1938_p098",
-        "c_red_shirt_pesh_city_1938_p099",
-        "c_red_shirt_pesh_city_1940_p011",
-        "c_red_shirt_pesh_city_1940_p012",
-        "c_red_shirt_pesh_city_1940_p016",
-        "c_red_shirt_pesh_city_1940_p017",
-        "c_red_shirt_pesh_city_1940_p019",
-        "c_red_shirt_pesh_city_1940_p003",
-        "c_red_shirt_pesh_city_1940_p009",
-        "c_red_shirt_pesh_city_1941_pdf_p011",
-        "c_red_shirt_pesh_city_1941_pdf_p012",
-        "c_red_shirt_pesh_city_1941_pdf_p014",
-        "c_red_shirt_pesh_city_1941_pdf_p015",
-        "c_red_shirt_pesh_city_1941_pdf_p018",
-        "c_red_shirt_pesh_city_1941_pdf_p019",
-        "c_red_shirt_pesh_city_1941_pdf_p002",
-        "c_red_shirt_pesh_city_1941_pdf_p026",
-        "c_red_shirt_pesh_city_1941_pdf_p032",
-        "c_red_shirt_pesh_city_1941_pdf_p035",
-        "c_red_shirt_pesh_city_1941_pdf_p039",
-        "c_red_shirt_pesh_city_1941_pdf_p040",
-        "c_red_shirt_pesh_city_1941_pdf_p007",
-        "c_red_shirt_pesh_city_1945_p101",
         "c_red_shirt_pesh_city_1945_p103",
-        "c_red_shirt_pesh_city_1945_p112",
-        "c_red_shirt_pesh_city_1945_p018",
-        "c_red_shirt_pesh_city_1945_p023",
-        "c_red_shirt_pesh_city_1945_p032",
-        "c_red_shirt_pesh_city_1945_p038",
         "c_red_shirt_pesh_city_1945_p047",
-        "c_red_shirt_pesh_city_1945_p070",
-        "c_red_shirt_pesh_dist_1941_42_p046",
+        "c_red_shirt_pesh_city_1945_p075",
+        "c_red_shirt_pesh_dist_1941_42_p101",
+        "c_red_shirt_pesh_dist_1941_42_p044",
+        "c_red_shirt_pesh_dist_1941_42_p048",
+        "c_red_shirt_pesh_dist_1941_42_p049",
         "c_red_shirt_pesh_dist_1941_42_p052",
+        "c_red_shirt_pesh_dist_1941_42_p053",
         "c_red_shirt_pesh_dist_1941_42_p054",
         "c_red_shirt_pesh_dist_1941_42_p060",
-        "c_red_shirt_pesh_dist_1941_42_p064",
+        "c_red_shirt_pesh_dist_1941_42_p061",
         "c_red_shirt_pesh_dist_1941_42_p065",
-        "c_red_shirt_pesh_dist_1941_42_p075",
-        "c_red_shirt_pesh_dist_1941_42_p076",
-        "c_red_shirts_1_pesh_city_1930_pdf_p046",
-        "c_red_shirts_1_pesh_city_1930_pdf_p064",
-        "camscanner_15_01_2026_1410_p109",
-        "camscanner_15_01_2026_1410_p011",
-        "camscanner_15_01_2026_1410_p134",
-        "camscanner_15_01_2026_1410_p030",
-        "camscanner_15_01_2026_1410_p034",
+        "c_red_shirt_pesh_dist_1941_42_p068",
+        "c_red_shirt_pesh_dist_1941_42_p072",
+        "c_red_shirt_pesh_dist_1941_42_p084",
+        "c_red_shirt_pesh_dist_1941_42_p085",
+        "c_red_shirt_pesh_dist_1941_42_p088",
+        "c_red_shirt_pesh_dist_1941_42_p089",
+        "camscanner_15_01_2026_1410_p100",
+        "camscanner_15_01_2026_1410_p102",
+        "camscanner_15_01_2026_1410_p131",
+        "camscanner_15_01_2026_1410_p029",
+        "camscanner_15_01_2026_1410_p033",
         "camscanner_15_01_2026_1410_p038",
-        "camscanner_15_01_2026_1410_p044",
+        "camscanner_15_01_2026_1410_p043",
+        "camscanner_15_01_2026_1410_p047",
         "camscanner_15_01_2026_1410_p005",
-        "camscanner_15_01_2026_1410_p057",
-        "camscanner_15_01_2026_1410_p064",
-        "camscanner_15_01_2026_1410_p068",
+        "camscanner_15_01_2026_1410_p051",
+        "camscanner_15_01_2026_1410_p071",
+        "camscanner_15_01_2026_1410_p087",
+        "camscanner_15_01_2026_1410_p088",
+        "camscanner_15_01_2026_1410_p090",
+        "camscanner_15_01_2026_1410_p091",
         "camscanner_15_01_2026_1410_p095",
         "camscanner_15_01_2026_1410_p096",
-        "khudai_khidmatgar_1946_p104",
-        "khudai_khidmatgar_1946_p056",
-        "khudai_khidmatgar_1946_p062",
-        "red_shirt_6_1931_pesh_dist_p039",
-        "red_shirt_6_1931_pesh_dist_p042",
-        "red_shirt_6_1931_pesh_dist_p051",
-        "red_shirt_6_1931_pesh_dist_p056",
-        "red_shirt_6_1931_pesh_dist_p057",
-        "red_shirt_6_1931_pesh_dist_p088"
-      ]
-    },
-    "Turangzei": {
-      "lat": 34.202,
-      "lon": 71.875,
-      "type": "village",
-      "note": "Village near Charsadda, home of the Mullah of Turangzai (Fazlul Wahid), a prominent frontier resistance figure.",
-      "parent_city": null,
-      "source": "gazetteer_exact",
-      "matched_to": "Turangzai",
-      "confidence": 0.9,
-      "found_in_sources": [
-        "ner_english",
-        "regex_english"
+        "camscanner_15_01_2026_1410_p099",
+        "red_shirt_6_1931_pesh_dist_p062",
+        "tribal_research_cell_1968_p016",
+        "tribal_research_cell_1968_p019",
+        "c_red_shirt_3_saddar_1931_p025",
+        "camscanner_15_01_2026_1410_p123",
+        "c_red_shirt_pesh_dist_1941_42_p028"
       ],
-      "page_count": 3,
-      "page_ids": [
-        "1968_p015",
-        "afghan_jirga_p061",
-        "c_red_shirts_2_pesh_city_1930_p023"
+      "merged_aliases": [
+        "Tahkal",
+        "Tahkel Bala",
+        "Tehka",
+        "Tehkal Bala",
+        "Tehkalbala",
+        "Tehkel",
+        "Tehkely",
+        "Tenkal",
+        "Tohkal",
+        "Tohkal Bala"
       ]
     },
     "Kandahar": {
@@ -1886,26 +1865,16 @@
         "ner_english",
         "regex_english"
       ],
-      "page_count": 1,
+      "page_count": 3,
       "page_ids": [
-        "1968_p027"
-      ]
-    },
-    "Turan": {
-      "lat": 34.202,
-      "lon": 71.875,
-      "type": "village",
-      "note": "Village near Charsadda, home of the Mullah of Turangzai (Fazlul Wahid), a prominent frontier resistance figure.",
-      "parent_city": null,
-      "source": "gazetteer_substring",
-      "matched_to": "Turangzai",
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
+        "1968_p027",
+        "afghan_jirga_p102",
+        "c_red_shirt_6_pesh_dist_1936_p089"
       ],
-      "page_count": 1,
-      "page_ids": [
-        "1968_p027"
+      "merged_aliases": [
+        "Kandar",
+        "Qandahar",
+        "Sandasar"
       ]
     },
     "Kabul": {
@@ -1921,7 +1890,7 @@
         "ner_english",
         "regex_english"
       ],
-      "page_count": 8,
+      "page_count": 11,
       "page_ids": [
         "1968_p027",
         "c_red_shirt_pesh_city_1938_p073",
@@ -1930,25 +1899,14 @@
         "khudai_khidmatgar_1946_p035",
         "khudai_khidmatgar_1946_p078",
         "red_shirt_6_1931_pesh_dist_p080",
-        "red_shirt_6_1931_pesh_dist_p083"
-      ]
-    },
-    "Qandahar": {
-      "lat": 31.6289,
-      "lon": 65.7372,
-      "type": "city",
-      "note": "Major city in southern Afghanistan",
-      "parent_city": null,
-      "source": "gazetteer_exact",
-      "matched_to": "Kandahar",
-      "confidence": 0.9,
-      "found_in_sources": [
-        "ner_english",
-        "regex_english"
+        "red_shirt_6_1931_pesh_dist_p083",
+        "c_red_shirt_5_pesh_city_1931_p101",
+        "c_red_shirt_5_pesh_city_1931_p018",
+        "c_red_shirt_5_pesh_city_1931_p045"
       ],
-      "page_count": 1,
-      "page_ids": [
-        "1968_p027"
+      "merged_aliases": [
+        "Kabuli",
+        "Kabull"
       ]
     },
     "Quetta": {
@@ -1972,46 +1930,9 @@
         "c_red_shirt_7_pesh_city_1937_p170",
         "c_red_shirt_7_pesh_city_1937_p175",
         "khudai_khidmatgar_1946_p079"
-      ]
-    },
-    "Campbellpur": {
-      "lat": 33.7667,
-      "lon": 72.3667,
-      "type": "town",
-      "note": "Strategic town on the Indus",
-      "parent_city": null,
-      "source": "gazetteer_exact",
-      "matched_to": "Attock",
-      "confidence": 0.9,
-      "found_in_sources": [
-        "ner_english",
-        "regex_english"
       ],
-      "page_count": 4,
-      "page_ids": [
-        "1968_p027",
-        "c_red_shirt_7_pesh_city_1937_p219",
-        "c_red_shirt_7_pesh_city_1937_p096",
-        "c_red_shirt_pesh_1946_47_p053"
-      ]
-    },
-    "Dharipur": {
-      "lat": 33.9942,
-      "lon": 72.94,
-      "type": "town",
-      "note": "Town in Hazara district",
-      "parent_city": null,
-      "source": "gazetteer_edit_key",
-      "matched_to": "Haripur",
-      "edit_distance": 1,
-      "edit_ratio": 0.875,
-      "confidence": 0.78,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "1968_p028"
+      "merged_aliases": [
+        "Qustta"
       ]
     },
     "Dera Ismail Khan": {
@@ -2026,7 +1947,7 @@
       "found_in_sources": [
         "regex_english"
       ],
-      "page_count": 14,
+      "page_count": 18,
       "page_ids": [
         "1968_p028",
         "1968_p029",
@@ -2041,7 +1962,16 @@
         "camscanner_15_01_2026_1410_p009",
         "khudai_khidmatgar_1946_p016",
         "khudai_khidmatgar_1946_p036",
-        "red_shirt_6_1931_pesh_dist_p064"
+        "red_shirt_6_1931_pesh_dist_p064",
+        "c_red_shirt_5_pesh_city_1931_p069",
+        "c_red_shirt_pesh_1940_p153",
+        "red_shirt_6_1931_pesh_dist_p003",
+        "red_shirt_6_1931_pesh_dist_p034"
+      ],
+      "merged_aliases": [
+        "D I Khan",
+        "Dera Ismail",
+        "Dik"
       ]
     },
     "Chowk Yadgar": {
@@ -2057,7 +1987,7 @@
         "ner_english",
         "regex_english"
       ],
-      "page_count": 33,
+      "page_count": 44,
       "page_ids": [
         "1968_p031",
         "1968_p004",
@@ -2091,124 +2021,26 @@
         "red_shirt_6_1931_pesh_dist_p039",
         "red_shirt_6_1931_pesh_dist_p041",
         "tribal_research_cell_1968_p018",
-        "tribal_research_cell_1968_p026"
-      ]
-    },
-    "Tehkel": {
-      "lat": 34.022,
-      "lon": 71.607,
-      "type": "locality",
-      "note": "Neighbourhood on the eastern edge of Peshawar, frequently mentioned in intelligence reports.",
-      "parent_city": "Peshawar",
-      "source": "gazetteer_exact",
-      "matched_to": "Tehkal",
-      "confidence": 0.9,
-      "found_in_sources": [
-        "ner_english",
-        "regex_english"
+        "tribal_research_cell_1968_p026",
+        "c_red_shirt_5_pesh_city_1931_p143",
+        "red_shirt_6_1931_pesh_dist_p042",
+        "red_shirt_6_1931_pesh_dist_p051",
+        "red_shirt_6_1931_pesh_dist_p058",
+        "c_red_shirt_5_pesh_city_1931_p009",
+        "c_red_shirt_7_pesh_city_1937_p219",
+        "c_red_shirt_pesh_1946_47_p088",
+        "c_red_shirt_pesh_city_1938_p170",
+        "c_red_shirt_pesh_1939_40_p094",
+        "c_red_shirt_pesh_1940_p028",
+        "c_red_shirt_pesh_city_1940_p010"
       ],
-      "page_count": 62,
-      "page_ids": [
-        "1968_p032",
-        "afghan_jirga_p100",
-        "afghan_jirga_p112",
-        "afghan_jirga_p117",
-        "afghan_jirga_p128",
-        "afghan_jirga_p017",
-        "afghan_jirga_p002",
-        "afghan_jirga_p022",
-        "afghan_jirga_p023",
-        "afghan_jirga_p025",
-        "afghan_jirga_p026",
-        "afghan_jirga_p028",
-        "afghan_jirga_p036",
-        "afghan_jirga_p040",
-        "afghan_jirga_p041",
-        "afghan_jirga_p049",
-        "afghan_jirga_p055",
-        "afghan_jirga_p058",
-        "afghan_jirga_p060",
-        "afghan_jirga_p069",
-        "afghan_jirga_p072",
-        "afghan_jirga_p074",
-        "afghan_jirga_p087",
-        "afghan_jirga_p088",
-        "c_red_shirt_3_saddar_1931_p064",
-        "c_red_shirt_6_pesh_dist_1936_p026",
-        "c_red_shirt_6_pesh_dist_1936_p029",
-        "c_red_shirt_6_pesh_dist_1936_p065",
-        "c_red_shirt_6_pesh_dist_1936_p088",
-        "c_red_shirt_7_pesh_city_1937_p082",
-        "c_red_shirt_pesh_1940_p089",
-        "c_red_shirt_pesh_1940_p098",
-        "c_red_shirt_pesh_dist_1941_42_p103",
-        "c_red_shirt_pesh_dist_1941_42_p035",
-        "c_red_shirt_pesh_dist_1941_42_p036",
-        "c_red_shirt_pesh_dist_1941_42_p042",
-        "c_red_shirt_pesh_dist_1941_42_p047",
-        "c_red_shirt_pesh_dist_1941_42_p059",
-        "c_red_shirt_pesh_dist_1941_42_p071",
-        "c_red_shirt_pesh_dist_1941_42_p083",
-        "c_red_shirts_1_pesh_city_1930_pdf_p051",
-        "camscanner_15_01_2026_1410_p107",
-        "camscanner_15_01_2026_1410_p117",
-        "camscanner_15_01_2026_1410_p120",
-        "camscanner_15_01_2026_1410_p122",
-        "camscanner_15_01_2026_1410_p124",
-        "camscanner_15_01_2026_1410_p129",
-        "camscanner_15_01_2026_1410_p013",
-        "camscanner_15_01_2026_1410_p133",
-        "camscanner_15_01_2026_1410_p017",
-        "camscanner_15_01_2026_1410_p032",
-        "camscanner_15_01_2026_1410_p046",
-        "camscanner_15_01_2026_1410_p053",
-        "camscanner_15_01_2026_1410_p057",
-        "camscanner_15_01_2026_1410_p058",
-        "camscanner_15_01_2026_1410_p060",
-        "camscanner_15_01_2026_1410_p061",
-        "camscanner_15_01_2026_1410_p067",
-        "camscanner_15_01_2026_1410_p074",
-        "camscanner_15_01_2026_1410_p089",
-        "camscanner_15_01_2026_1410_p097",
-        "tribal_research_cell_1968_p017"
-      ]
-    },
-    "Masjid Lahor": {
-      "lat": 31.5497,
-      "lon": 74.3436,
-      "type": "city",
-      "note": "Capital of the Punjab",
-      "parent_city": null,
-      "source": "gazetteer_substring",
-      "matched_to": "Lahore",
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "1968_p035"
-      ]
-    },
-    "Lahor": {
-      "lat": 31.5497,
-      "lon": 74.3436,
-      "type": "city",
-      "note": "Capital of the Punjab",
-      "parent_city": null,
-      "source": "gazetteer_exact",
-      "matched_to": "Lahore",
-      "confidence": 0.9,
-      "found_in_sources": [
-        "ner_english",
-        "regex_english"
-      ],
-      "page_count": 4,
-      "page_ids": [
-        "1968_p035",
-        "1968_p004",
-        "c_red_shirt_6_pesh_dist_1936_p069",
-        "tribal_research_cell_1968_p021"
+      "merged_aliases": [
+        "Chork Yadear",
+        "Chouk Yadgar",
+        "Chouk Yadger",
+        "Chowk",
+        "Chowk Yadcar",
+        "Yadgar Chowk"
       ]
     },
     "Swabi": {
@@ -2223,7 +2055,7 @@
       "found_in_sources": [
         "regex_english"
       ],
-      "page_count": 8,
+      "page_count": 20,
       "page_ids": [
         "1968_p035",
         "1968_p004",
@@ -2232,7 +2064,23 @@
         "c_red_shirt_pesh_dist_1941_42_p039",
         "khudai_khidmatgar_1946_p038",
         "red_shirt_6_1931_pesh_dist_p076",
-        "tribal_research_cell_1968_p018"
+        "tribal_research_cell_1968_p018",
+        "c_red_shirt_pesh_1939_40_p072",
+        "c_red_shirt_pesh_1946_47_p104",
+        "c_red_shirt_pesh_city_1940_p012",
+        "c_red_shirt_pesh_city_1941_pdf_p051",
+        "c_red_shirts_2_pesh_city_1930_p007",
+        "camscanner_15_01_2026_1410_p122",
+        "camscanner_15_01_2026_1410_p057",
+        "camscanner_15_01_2026_1410_p058",
+        "camscanner_15_01_2026_1410_p060",
+        "camscanner_15_01_2026_1410_p061",
+        "camscanner_15_01_2026_1410_p067",
+        "camscanner_15_01_2026_1410_p068"
+      ],
+      "merged_aliases": [
+        "Swabi Tehsil",
+        "Tehsil"
       ]
     },
     "Mardan": {
@@ -2326,7 +2174,7 @@
         "ner_english",
         "regex_english"
       ],
-      "page_count": 45,
+      "page_count": 47,
       "page_ids": [
         "1968_p004",
         "afghan_jirga_p100",
@@ -2372,7 +2220,12 @@
         "tribal_research_cell_1968_p021",
         "tribal_research_cell_1968_p023",
         "tribal_research_cell_1968_p026",
-        "tribal_research_cell_1968_p004"
+        "tribal_research_cell_1968_p004",
+        "c_red_shirt_3_saddar_1931_p214",
+        "c_red_shirt_3_saddar_1931_p006"
+      ],
+      "merged_aliases": [
+        "Ragi"
       ]
     },
     "Kohat": {
@@ -2388,7 +2241,7 @@
         "ner_english",
         "regex_english"
       ],
-      "page_count": 76,
+      "page_count": 84,
       "page_ids": [
         "1968_p004",
         "afghan_jirga_p053",
@@ -2465,7 +2318,19 @@
         "red_shirt_6_1931_pesh_dist_p087",
         "tribal_research_cell_1968_p018",
         "tribal_research_cell_1968_p019",
-        "tribal_research_cell_1968_p026"
+        "tribal_research_cell_1968_p026",
+        "c_red_shirt_7_pesh_city_1937_p184",
+        "c_red_shirt_7_pesh_city_1937_p040",
+        "c_red_shirt_7_pesh_city_1937_p041",
+        "c_red_shirt_pesh_city_1938_p141",
+        "c_red_shirt_pesh_city_1938_p145",
+        "c_red_shirt_pesh_city_1938_p147",
+        "c_red_shirt_pesh_city_1938_p155",
+        "c_red_shirt_pesh_city_1938_p025"
+      ],
+      "merged_aliases": [
+        "Kohaton",
+        "Kohet"
       ]
     },
     "Charsadda": {
@@ -2482,7 +2347,7 @@
         "regex_original",
         "ner_english"
       ],
-      "page_count": 149,
+      "page_count": 156,
       "page_ids": [
         "1968_p042",
         "afghan_jirga_p011",
@@ -2632,51 +2497,20 @@
         "red_shirt_6_1931_pesh_dist_p087",
         "red_shirt_6_1931_pesh_dist_p089",
         "tribal_research_cell_1968_p011",
-        "tribal_research_cell_1968_p013"
-      ]
-    },
-    "Peshawer": {
-      "lat": 34.0151,
-      "lon": 71.5249,
-      "type": "city",
-      "note": "Capital of the North-West Frontier Province",
-      "parent_city": null,
-      "source": "gazetteer_exact",
-      "matched_to": "Peshawar",
-      "confidence": 0.9,
-      "found_in_sources": [
-        "ner_english",
-        "regex_english"
+        "tribal_research_cell_1968_p013",
+        "c_red_shirt_3_saddar_1931_p018",
+        "c_red_shirt_pesh_dist_1941_42_p045",
+        "c_red_shirt_pesh_1946_47_p090",
+        "c_red_shirt_pesh_city_1938_p148",
+        "c_red_shirt_pesh_city_1938_p035",
+        "c_red_shirt_pesh_city_1938_p060",
+        "c_red_shirt_pesh_city_1938_p009"
       ],
-      "page_count": 27,
-      "page_ids": [
-        "1968_p009",
-        "afghan_jirga_p033",
-        "afghan_jirga_p048",
-        "afghan_jirga_p071",
-        "c_red_shirt_3_saddar_1931_p207",
-        "c_red_shirt_3_saddar_1931_p220",
-        "c_red_shirt_3_saddar_1931_p221",
-        "c_red_shirt_7_pesh_city_1937_p064",
-        "c_red_shirt_pesh_1939_40_p010",
-        "c_red_shirt_pesh_1939_40_p113",
-        "c_red_shirt_pesh_1940_p008",
-        "c_red_shirt_pesh_city_1938_p110",
-        "c_red_shirt_pesh_city_1938_p013",
-        "c_red_shirt_pesh_city_1938_p141",
-        "c_red_shirt_pesh_city_1945_p015",
-        "c_red_shirt_pesh_city_1945_p022",
-        "c_red_shirt_pesh_city_1945_p037",
-        "c_red_shirt_pesh_city_1945_p042",
-        "c_red_shirt_pesh_city_1945_p007",
-        "c_red_shirt_pesh_city_1945_p092",
-        "c_red_shirt_pesh_dist_1941_42_p022",
-        "c_red_shirts_2_pesh_city_1930_p015",
-        "camscanner_15_01_2026_1410_p134",
-        "camscanner_15_01_2026_1410_p056",
-        "camscanner_15_01_2026_1410_p057",
-        "tribal_research_cell_1968_p011",
-        "tribal_research_cell_1968_p003"
+      "merged_aliases": [
+        "Charsada",
+        "Haghtnagr",
+        "Hashtnagar",
+        "Nagar"
       ]
     },
     "Abbottabad": {
@@ -2731,7 +2565,7 @@
         "regex_original",
         "ner_english"
       ],
-      "page_count": 124,
+      "page_count": 129,
       "page_ids": [
         "afghan_jirga_p101",
         "afghan_jirga_p102",
@@ -2856,104 +2690,22 @@
         "red_shirt_6_1931_pesh_dist_p069",
         "red_shirt_6_1931_pesh_dist_p081",
         "red_shirt_6_1931_pesh_dist_p084",
-        "red_shirt_6_1931_pesh_dist_p091"
-      ]
-    },
-    "Utanzai": {
-      "lat": 34.1765,
-      "lon": 71.7847,
-      "type": "village",
-      "note": "Village in Charsadda district, birthplace of Khan Abdul Ghaffar Khan and headquarters of the Khudai Khidmatgar movement.",
-      "parent_city": null,
-      "source": "gazetteer_exact",
-      "matched_to": "Utmanzai",
-      "confidence": 0.9,
-      "found_in_sources": [
-        "ner_english",
-        "regex_english"
+        "red_shirt_6_1931_pesh_dist_p091",
+        "afghan_jirga_p112",
+        "afghan_jirga_p116",
+        "afghan_jirga_p024",
+        "camscanner_15_01_2026_1410_p060",
+        "camscanner_15_01_2026_1410_p085"
       ],
-      "page_count": 1,
-      "page_ids": [
-        "afghan_jirga_p101"
-      ]
-    },
-    "Mazara": {
-      "lat": 34.14,
-      "lon": 71.73,
-      "type": "village",
-      "note": "Village in the Charsadda/Peshawar area associated with Red Shirt activity.",
-      "parent_city": null,
-      "source": "gazetteer_exact",
-      "matched_to": "Mahzara",
-      "confidence": 0.9,
-      "found_in_sources": [
-        "ner_english",
-        "regex_english"
-      ],
-      "page_count": 26,
-      "page_ids": [
-        "afghan_jirga_p101",
-        "afghan_jirga_p102",
-        "afghan_jirga_p123",
-        "afghan_jirga_p124",
-        "afghan_jirga_p125",
-        "afghan_jirga_p002",
-        "c_red_shirt_3_saddar_1931_p004",
-        "c_red_shirt_6_pesh_dist_1936_p112",
-        "c_red_shirt_6_pesh_dist_1936_p034",
-        "c_red_shirt_6_pesh_dist_1936_p035",
-        "c_red_shirt_pesh_city_1938_p148",
-        "c_red_shirt_pesh_city_1938_p151",
-        "c_red_shirts_2_pesh_city_1930_p001",
-        "c_red_shirts_2_pesh_city_1930_p021",
-        "c_red_shirts_2_pesh_city_1930_p006",
-        "camscanner_15_01_2026_1410_p134",
-        "camscanner_15_01_2026_1410_p062",
-        "camscanner_15_01_2026_1410_p071",
-        "camscanner_15_01_2026_1410_p073",
-        "camscanner_15_01_2026_1410_p074",
-        "camscanner_15_01_2026_1410_p087",
-        "camscanner_15_01_2026_1410_p091",
-        "camscanner_15_01_2026_1410_p095",
-        "camscanner_15_01_2026_1410_p096",
-        "camscanner_15_01_2026_1410_p097",
-        "camscanner_15_01_2026_1410_p099"
-      ]
-    },
-    "Mohmands": {
-      "lat": 34.5,
-      "lon": 71.1,
-      "type": "region",
-      "note": "Tribal agency",
-      "parent_city": null,
-      "source": "gazetteer_exact",
-      "matched_to": "Mohmand",
-      "confidence": 0.9,
-      "found_in_sources": [
-        "ner_english",
-        "regex_english"
-      ],
-      "page_count": 19,
-      "page_ids": [
-        "afghan_jirga_p101",
-        "afghan_jirga_p071",
-        "c_red_shirt_3_saddar_1931_p109",
-        "c_red_shirt_3_saddar_1931_p018",
-        "c_red_shirt_5_pesh_city_1931_p164",
-        "c_red_shirt_pesh_1946_47_p104",
-        "c_red_shirt_pesh_city_1940_p016",
-        "c_red_shirt_pesh_city_1940_p017",
-        "c_red_shirt_pesh_dist_1941_42_p058",
-        "c_red_shirt_pesh_dist_1941_42_p078",
-        "c_red_shirt_pesh_dist_1941_42_p092",
-        "c_red_shirts_2_pesh_city_1930_p028",
-        "camscanner_15_01_2026_1410_p011",
-        "camscanner_15_01_2026_1410_p081",
-        "red_shirt_6_1931_pesh_dist_p053",
-        "red_shirt_6_1931_pesh_dist_p054",
-        "red_shirt_6_1931_pesh_dist_p067",
-        "tribal_research_cell_1968_p023",
-        "tribal_research_cell_1968_p026"
+      "merged_aliases": [
+        "Umarzai",
+        "Utaenzai",
+        "Utanzai",
+        "Utanzani",
+        "Utmanze",
+        "Utmanzei",
+        "Utmanzi",
+        "Utmenzei"
       ]
     },
     "Nowshera": {
@@ -2969,7 +2721,7 @@
         "ner_english",
         "regex_english"
       ],
-      "page_count": 54,
+      "page_count": 67,
       "page_ids": [
         "afghan_jirga_p102",
         "afghan_jirga_p025",
@@ -3024,52 +2776,25 @@
         "khudai_khidmatgar_1946_p088",
         "red_shirt_6_1931_pesh_dist_p016",
         "red_shirt_6_1931_pesh_dist_p089",
-        "tribal_research_cell_1968_p013"
-      ]
-    },
-    "Sandasar": {
-      "lat": 31.6289,
-      "lon": 65.7372,
-      "type": "city",
-      "note": "Major city in southern Afghanistan",
-      "parent_city": null,
-      "source": "gazetteer_w2v_alias",
-      "matched_to": "Kandahar",
-      "edit_distance": 2,
-      "edit_ratio": 0.75,
-      "w2v_similarity": 0.643,
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
+        "tribal_research_cell_1968_p013",
+        "1968_p015",
+        "afghan_jirga_p058",
+        "c_red_shirt_7_pesh_city_1937_p091",
+        "c_red_shirt_pesh_1940_p083",
+        "c_red_shirt_pesh_city_1938_p035",
+        "camscanner_15_01_2026_1410_p051",
+        "camscanner_15_01_2026_1410_p054",
+        "tribal_research_cell_1968_p011",
+        "afghan_jirga_p028",
+        "afghan_jirga_p087",
+        "c_red_shirt_6_pesh_dist_1936_p089",
+        "c_red_shirt_pesh_city_1938_p109",
+        "camscanner_15_01_2026_1410_p047"
       ],
-      "page_count": 1,
-      "page_ids": [
-        "afghan_jirga_p102"
-      ]
-    },
-    "Hazara": {
-      "lat": 33.9942,
-      "lon": 72.94,
-      "type": "town",
-      "note": "Town in Hazara district",
-      "parent_city": null,
-      "source": "gazetteer_substring",
-      "matched_to": "Haripur",
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 9,
-      "page_ids": [
-        "afghan_jirga_p107",
-        "afghan_jirga_p108",
-        "c_red_shirt_5_pesh_city_1931_p069",
-        "c_red_shirt_6_pesh_dist_1936_p054",
-        "c_red_shirt_6_pesh_dist_1936_p062",
-        "c_red_shirt_6_pesh_dist_1936_p083",
-        "c_red_shirt_7_pesh_city_1937_p015",
-        "c_red_shirt_pesh_1946_47_p089",
-        "camscanner_15_01_2026_1410_p113"
+      "merged_aliases": [
+        "Nowshera Kalan",
+        "Nowshere",
+        "Nowshers"
       ]
     },
     "Mahzara": {
@@ -3085,7 +2810,7 @@
         "ner_english",
         "regex_english"
       ],
-      "page_count": 29,
+      "page_count": 77,
       "page_ids": [
         "afghan_jirga_p011",
         "afghan_jirga_p112",
@@ -3115,7 +2840,68 @@
         "camscanner_15_01_2026_1410_p060",
         "camscanner_15_01_2026_1410_p061",
         "camscanner_15_01_2026_1410_p067",
-        "camscanner_15_01_2026_1410_p080"
+        "camscanner_15_01_2026_1410_p080",
+        "afghan_jirga_p101",
+        "afghan_jirga_p102",
+        "afghan_jirga_p123",
+        "afghan_jirga_p124",
+        "afghan_jirga_p125",
+        "afghan_jirga_p002",
+        "c_red_shirt_3_saddar_1931_p004",
+        "c_red_shirt_6_pesh_dist_1936_p112",
+        "c_red_shirt_6_pesh_dist_1936_p034",
+        "c_red_shirt_6_pesh_dist_1936_p035",
+        "c_red_shirt_pesh_city_1938_p148",
+        "c_red_shirt_pesh_city_1938_p151",
+        "c_red_shirts_2_pesh_city_1930_p001",
+        "c_red_shirts_2_pesh_city_1930_p021",
+        "c_red_shirts_2_pesh_city_1930_p006",
+        "camscanner_15_01_2026_1410_p134",
+        "camscanner_15_01_2026_1410_p062",
+        "camscanner_15_01_2026_1410_p071",
+        "camscanner_15_01_2026_1410_p073",
+        "camscanner_15_01_2026_1410_p074",
+        "camscanner_15_01_2026_1410_p087",
+        "camscanner_15_01_2026_1410_p091",
+        "camscanner_15_01_2026_1410_p095",
+        "camscanner_15_01_2026_1410_p096",
+        "camscanner_15_01_2026_1410_p097",
+        "camscanner_15_01_2026_1410_p099",
+        "afghan_jirga_p113",
+        "afghan_jirga_p116",
+        "afghan_jirga_p015",
+        "afghan_jirga_p028",
+        "afghan_jirga_p039",
+        "camscanner_15_01_2026_1410_p011",
+        "camscanner_15_01_2026_1410_p017",
+        "camscanner_15_01_2026_1410_p032",
+        "camscanner_15_01_2026_1410_p046",
+        "afghan_jirga_p065",
+        "afghan_jirga_p023",
+        "afghan_jirga_p052",
+        "c_red_shirt_pesh_city_1940_p060",
+        "camscanner_15_01_2026_1410_p063",
+        "afghan_jirga_p069",
+        "c_red_shirt_3_saddar_1931_p165",
+        "c_red_shirt_6_pesh_dist_1936_p037",
+        "c_red_shirt_6_pesh_dist_1936_p040",
+        "c_red_shirt_6_pesh_dist_1936_p056",
+        "c_red_shirt_pesh_city_1938_p053",
+        "camscanner_15_01_2026_1410_p133",
+        "camscanner_15_01_2026_1410_p088"
+      ],
+      "merged_aliases": [
+        "Mahazara",
+        "Mahsara",
+        "Mahzafa",
+        "Mahzare",
+        "Mahzera",
+        "Mahzere",
+        "Mazara",
+        "Mazare",
+        "Mazera",
+        "Mehazara",
+        "Nahzare"
       ]
     },
     "Mohmand": {
@@ -3131,7 +2917,7 @@
         "ner_english",
         "regex_english"
       ],
-      "page_count": 46,
+      "page_count": 69,
       "page_ids": [
         "afghan_jirga_p110",
         "afghan_jirga_p012",
@@ -3178,89 +2964,38 @@
         "red_shirt_6_1931_pesh_dist_p052",
         "red_shirt_6_1931_pesh_dist_p053",
         "red_shirt_6_1931_pesh_dist_p056",
-        "red_shirt_6_1931_pesh_dist_p088"
-      ]
-    },
-    "Tohkal": {
-      "lat": 34.022,
-      "lon": 71.607,
-      "type": "locality",
-      "note": "Neighbourhood on the eastern edge of Peshawar, frequently mentioned in intelligence reports.",
-      "parent_city": "Peshawar",
-      "source": "gazetteer_exact",
-      "matched_to": "Tehkal",
-      "confidence": 0.9,
-      "found_in_sources": [
-        "ner_english",
-        "regex_english"
-      ],
-      "page_count": 12,
-      "page_ids": [
-        "afghan_jirga_p112",
-        "afghan_jirga_p012",
-        "afghan_jirga_p088",
-        "c_red_shirt_6_pesh_dist_1936_p016",
-        "c_red_shirt_6_pesh_dist_1936_p026",
-        "c_red_shirt_pesh_1940_p018",
-        "c_red_shirt_pesh_city_1938_p065",
-        "c_red_shirt_pesh_city_1940_p025",
-        "c_red_shirt_pesh_dist_1941_42_p110",
-        "c_red_shirt_pesh_dist_1941_42_p059",
-        "c_red_shirt_pesh_dist_1941_42_p098",
-        "red_shirt_6_1931_pesh_dist_p017"
-      ]
-    },
-    "Utmanzei": {
-      "lat": 34.1765,
-      "lon": 71.7847,
-      "type": "village",
-      "note": "Village in Charsadda district, birthplace of Khan Abdul Ghaffar Khan and headquarters of the Khudai Khidmatgar movement.",
-      "parent_city": null,
-      "source": "gazetteer_exact",
-      "matched_to": "Utmanzai",
-      "confidence": 0.9,
-      "found_in_sources": [
-        "ner_english",
-        "regex_english"
-      ],
-      "page_count": 6,
-      "page_ids": [
-        "afghan_jirga_p112",
-        "afghan_jirga_p116",
-        "afghan_jirga_p024",
-        "afghan_jirga_p028",
-        "c_red_shirt_pesh_dist_1941_42_p100",
-        "camscanner_15_01_2026_1410_p060"
-      ]
-    },
-    "Mahzare": {
-      "lat": 34.14,
-      "lon": 71.73,
-      "type": "village",
-      "note": "Village in the Charsadda/Peshawar area associated with Red Shirt activity.",
-      "parent_city": null,
-      "source": "gazetteer_exact",
-      "matched_to": "Mahzara",
-      "confidence": 0.9,
-      "found_in_sources": [
-        "ner_english",
-        "regex_english"
-      ],
-      "page_count": 13,
-      "page_ids": [
-        "afghan_jirga_p113",
-        "afghan_jirga_p116",
-        "afghan_jirga_p015",
-        "afghan_jirga_p028",
-        "afghan_jirga_p035",
-        "afghan_jirga_p039",
-        "afghan_jirga_p095",
-        "camscanner_15_01_2026_1410_p107",
+        "red_shirt_6_1931_pesh_dist_p088",
+        "afghan_jirga_p101",
+        "afghan_jirga_p071",
+        "c_red_shirt_3_saddar_1931_p109",
+        "c_red_shirt_3_saddar_1931_p018",
+        "c_red_shirt_5_pesh_city_1931_p164",
+        "c_red_shirt_pesh_1946_47_p104",
+        "c_red_shirt_pesh_city_1940_p016",
+        "c_red_shirt_pesh_city_1940_p017",
+        "c_red_shirt_pesh_dist_1941_42_p058",
+        "c_red_shirt_pesh_dist_1941_42_p078",
+        "c_red_shirt_pesh_dist_1941_42_p092",
+        "c_red_shirts_2_pesh_city_1930_p028",
         "camscanner_15_01_2026_1410_p011",
-        "camscanner_15_01_2026_1410_p017",
-        "camscanner_15_01_2026_1410_p032",
-        "camscanner_15_01_2026_1410_p046",
-        "camscanner_15_01_2026_1410_p067"
+        "camscanner_15_01_2026_1410_p081",
+        "red_shirt_6_1931_pesh_dist_p054",
+        "red_shirt_6_1931_pesh_dist_p067",
+        "tribal_research_cell_1968_p023",
+        "tribal_research_cell_1968_p026",
+        "c_red_shirt_3_saddar_1931_p008",
+        "c_red_shirt_5_pesh_city_1931_p005",
+        "c_red_shirt_6_pesh_dist_1936_p112",
+        "c_red_shirt_pesh_dist_1941_42_p014",
+        "c_red_shirt_pesh_dist_1941_42_p034"
+      ],
+      "merged_aliases": [
+        "Mahmand",
+        "Mahmund",
+        "Mohand",
+        "Mohmands",
+        "Mohmends",
+        "Tappa Mohmand"
       ]
     },
     "Kabuli Gate": {
@@ -3291,43 +3026,6 @@
         "c_red_shirt_pesh_city_1945_p020",
         "c_red_shirt_pesh_city_1945_p043",
         "red_shirt_6_1931_pesh_dist_p012"
-      ]
-    },
-    "Peshewer": {
-      "lat": 34.0151,
-      "lon": 71.5249,
-      "type": "city",
-      "note": "Capital of the North-West Frontier Province",
-      "parent_city": null,
-      "source": "gazetteer_exact",
-      "matched_to": "Peshawar",
-      "confidence": 0.9,
-      "found_in_sources": [
-        "ner_english",
-        "regex_english"
-      ],
-      "page_count": 20,
-      "page_ids": [
-        "afghan_jirga_p127",
-        "afghan_jirga_p132",
-        "afghan_jirga_p135",
-        "afghan_jirga_p046",
-        "afghan_jirga_p060",
-        "afghan_jirga_p064",
-        "afghan_jirga_p093",
-        "c_red_shirt_7_pesh_city_1937_p173",
-        "c_red_shirt_7_pesh_city_1937_p065",
-        "c_red_shirt_pesh_1939_40_p080",
-        "c_red_shirt_pesh_1940_p142",
-        "c_red_shirt_pesh_1946_47_p039",
-        "c_red_shirt_pesh_city_1938_p027",
-        "c_red_shirt_pesh_city_1938_p030",
-        "c_red_shirt_pesh_city_1945_p037",
-        "camscanner_15_01_2026_1410_p120",
-        "camscanner_15_01_2026_1410_p015",
-        "camscanner_15_01_2026_1410_p047",
-        "camscanner_15_01_2026_1410_p053",
-        "khudai_khidmatgar_1946_p045"
       ]
     },
     "Mosque": {
@@ -3375,85 +3073,6 @@
         "camscanner_15_01_2026_1410_p030"
       ]
     },
-    "Tahkal": {
-      "lat": 34.022,
-      "lon": 71.607,
-      "type": "locality",
-      "note": "Neighbourhood on the eastern edge of Peshawar, frequently mentioned in intelligence reports.",
-      "parent_city": "Peshawar",
-      "source": "gazetteer_exact",
-      "matched_to": "Tehkal",
-      "confidence": 0.9,
-      "found_in_sources": [
-        "ner_english",
-        "regex_english"
-      ],
-      "page_count": 41,
-      "page_ids": [
-        "afghan_jirga_p135",
-        "afghan_jirga_p015",
-        "c_red_shirt_3_saddar_1931_p010",
-        "c_red_shirt_3_saddar_1931_p105",
-        "c_red_shirt_3_saddar_1931_p011",
-        "c_red_shirt_3_saddar_1931_p113",
-        "c_red_shirt_3_saddar_1931_p114",
-        "c_red_shirt_3_saddar_1931_p117",
-        "c_red_shirt_3_saddar_1931_p120",
-        "c_red_shirt_3_saddar_1931_p139",
-        "c_red_shirt_3_saddar_1931_p146",
-        "c_red_shirt_3_saddar_1931_p178",
-        "c_red_shirt_3_saddar_1931_p222",
-        "c_red_shirt_3_saddar_1931_p223",
-        "c_red_shirt_3_saddar_1931_p026",
-        "c_red_shirt_3_saddar_1931_p029",
-        "c_red_shirt_3_saddar_1931_p033",
-        "c_red_shirt_3_saddar_1931_p004",
-        "c_red_shirt_3_saddar_1931_p045",
-        "c_red_shirt_3_saddar_1931_p055",
-        "c_red_shirt_3_saddar_1931_p008",
-        "c_red_shirt_3_saddar_1931_p080",
-        "c_red_shirt_5_pesh_city_1931_p140",
-        "c_red_shirt_5_pesh_city_1931_p163",
-        "c_red_shirt_6_pesh_dist_1936_p119",
-        "c_red_shirt_pesh_dist_1941_42_p091",
-        "c_red_shirt_pesh_dist_1941_42_p094",
-        "c_red_shirts_1_pesh_city_1930_pdf_p012",
-        "c_red_shirts_1_pesh_city_1930_pdf_p028",
-        "c_red_shirts_1_pesh_city_1930_pdf_p031",
-        "camscanner_15_01_2026_1410_p130",
-        "camscanner_15_01_2026_1410_p063",
-        "red_shirt_6_1931_pesh_dist_p004",
-        "red_shirt_6_1931_pesh_dist_p042",
-        "red_shirt_6_1931_pesh_dist_p053",
-        "red_shirt_6_1931_pesh_dist_p055",
-        "red_shirt_6_1931_pesh_dist_p061",
-        "red_shirt_6_1931_pesh_dist_p066",
-        "red_shirt_6_1931_pesh_dist_p067",
-        "red_shirt_6_1931_pesh_dist_p071",
-        "red_shirt_6_1931_pesh_dist_p077"
-      ]
-    },
-    "Mahsara": {
-      "lat": 34.14,
-      "lon": 71.73,
-      "type": "village",
-      "note": "Village in the Charsadda/Peshawar area associated with Red Shirt activity.",
-      "parent_city": null,
-      "source": "gazetteer_w2v_alias",
-      "matched_to": "Mahzara",
-      "edit_distance": 1,
-      "edit_ratio": 0.857,
-      "w2v_similarity": 0.7706,
-      "confidence": 0.75,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 2,
-      "page_ids": [
-        "afghan_jirga_p015",
-        "afghan_jirga_p065"
-      ]
-    },
     "Mazars": {
       "lat": 36.7069,
       "lon": 67.11,
@@ -3485,77 +3104,33 @@
         "ner_english",
         "regex_english"
       ],
-      "page_count": 6,
+      "page_count": 16,
       "page_ids": [
         "afghan_jirga_p021",
         "afghan_jirga_p056",
         "c_red_shirts_1_pesh_city_1930_pdf_p032",
         "camscanner_15_01_2026_1410_p019",
         "khudai_khidmatgar_1946_p033",
-        "khudai_khidmatgar_1946_p078"
-      ]
-    },
-    "Mahzera": {
-      "lat": 34.14,
-      "lon": 71.73,
-      "type": "village",
-      "note": "Village in the Charsadda/Peshawar area associated with Red Shirt activity.",
-      "parent_city": null,
-      "source": "gazetteer_exact",
-      "matched_to": "Mahzara",
-      "confidence": 0.9,
-      "found_in_sources": [
-        "ner_english",
-        "regex_english"
+        "khudai_khidmatgar_1946_p078",
+        "1968_p015",
+        "afghan_jirga_p061",
+        "c_red_shirts_2_pesh_city_1930_p023",
+        "1968_p027",
+        "c_red_shirt_7_pesh_city_1937_p217",
+        "c_red_shirts_2_pesh_city_1930_p014",
+        "camscanner_15_01_2026_1410_p085",
+        "khudai_khidmatgar_1946_p106",
+        "tribal_research_cell_1968_p016",
+        "tribal_research_cell_1968_p017"
       ],
-      "page_count": 2,
-      "page_ids": [
-        "afghan_jirga_p023",
-        "afghan_jirga_p060"
-      ]
-    },
-    "Nowshere": {
-      "lat": 34.0153,
-      "lon": 71.9747,
-      "type": "town",
-      "note": "Garrison town on the Grand Trunk Road",
-      "parent_city": null,
-      "source": "gazetteer_exact",
-      "matched_to": "Nowshera",
-      "confidence": 0.9,
-      "found_in_sources": [
-        "ner_english",
-        "regex_english"
-      ],
-      "page_count": 8,
-      "page_ids": [
-        "afghan_jirga_p025",
-        "afghan_jirga_p026",
-        "afghan_jirga_p028",
-        "afghan_jirga_p087",
-        "c_red_shirt_6_pesh_dist_1936_p089",
-        "c_red_shirt_pesh_city_1938_p109",
-        "camscanner_15_01_2026_1410_p047",
-        "camscanner_15_01_2026_1410_p091"
-      ]
-    },
-    "Utmenzei": {
-      "lat": 34.1765,
-      "lon": 71.7847,
-      "type": "village",
-      "note": "Village in Charsadda district, birthplace of Khan Abdul Ghaffar Khan and headquarters of the Khudai Khidmatgar movement.",
-      "parent_city": null,
-      "source": "gazetteer_edit_alias",
-      "matched_to": "Utmanzai",
-      "edit_distance": 1,
-      "edit_ratio": 0.875,
-      "confidence": 0.75,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "afghan_jirga_p028"
+      "merged_aliases": [
+        "Turan",
+        "Turanezai",
+        "Turang",
+        "Turanga",
+        "Turangaai",
+        "Turangai",
+        "Turangzei"
       ]
     },
     "Qissa": {
@@ -3580,144 +3155,6 @@
         "c_red_shirt_5_pesh_city_1931_p106",
         "c_red_shirt_5_pesh_city_1931_p014",
         "c_red_shirt_pesh_1946_47_p082"
-      ]
-    },
-    "Tehkely": {
-      "lat": 34.022,
-      "lon": 71.607,
-      "type": "locality",
-      "note": "Neighbourhood on the eastern edge of Peshawar, frequently mentioned in intelligence reports.",
-      "parent_city": "Peshawar",
-      "source": "gazetteer_edit_alias",
-      "matched_to": "Tehkal",
-      "edit_distance": 1,
-      "edit_ratio": 0.857,
-      "confidence": 0.75,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "afghan_jirga_p040"
-      ]
-    },
-    "Mazare": {
-      "lat": 34.14,
-      "lon": 71.73,
-      "type": "village",
-      "note": "Village in the Charsadda/Peshawar area associated with Red Shirt activity.",
-      "parent_city": null,
-      "source": "gazetteer_edit_alias",
-      "matched_to": "Mahzara",
-      "edit_distance": 1,
-      "edit_ratio": 0.857,
-      "confidence": 0.75,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 4,
-      "page_ids": [
-        "afghan_jirga_p052",
-        "c_red_shirt_pesh_city_1940_p060",
-        "camscanner_15_01_2026_1410_p063",
-        "camscanner_15_01_2026_1410_p091"
-      ]
-    },
-    "Peshaver": {
-      "lat": 34.0151,
-      "lon": 71.5249,
-      "type": "city",
-      "note": "Capital of the North-West Frontier Province",
-      "parent_city": null,
-      "source": "gazetteer_exact",
-      "matched_to": "Peshawar",
-      "confidence": 0.9,
-      "found_in_sources": [
-        "ner_english",
-        "regex_english"
-      ],
-      "page_count": 19,
-      "page_ids": [
-        "afghan_jirga_p056",
-        "c_red_shirt_5_pesh_city_1931_p022",
-        "c_red_shirt_6_pesh_dist_1936_p021",
-        "c_red_shirt_6_pesh_dist_1936_p064",
-        "c_red_shirt_7_pesh_city_1937_p130",
-        "c_red_shirt_7_pesh_city_1937_p044",
-        "c_red_shirt_pesh_1940_p007",
-        "c_red_shirt_pesh_city_1938_p176",
-        "c_red_shirt_pesh_city_1940_p002",
-        "c_red_shirt_pesh_city_1945_p011",
-        "c_red_shirt_pesh_city_1945_p031",
-        "c_red_shirt_pesh_city_1945_p050",
-        "c_red_shirt_pesh_city_1945_p054",
-        "c_red_shirt_pesh_city_1945_p099",
-        "c_red_shirt_pesh_dist_1941_42_p048",
-        "camscanner_15_01_2026_1410_p056",
-        "camscanner_15_01_2026_1410_p057",
-        "camscanner_15_01_2026_1410_p058",
-        "camscanner_15_01_2026_1410_p009"
-      ]
-    },
-    "Mahzere": {
-      "lat": 34.14,
-      "lon": 71.73,
-      "type": "village",
-      "note": "Village in the Charsadda/Peshawar area associated with Red Shirt activity.",
-      "parent_city": null,
-      "source": "gazetteer_edit_alias",
-      "matched_to": "Mahzara",
-      "edit_distance": 1,
-      "edit_ratio": 0.857,
-      "confidence": 0.75,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 2,
-      "page_ids": [
-        "afghan_jirga_p069",
-        "camscanner_15_01_2026_1410_p053"
-      ]
-    },
-    "Peshewar City": {
-      "lat": 34.0151,
-      "lon": 71.5249,
-      "type": "city",
-      "note": "Capital of the North-West Frontier Province",
-      "parent_city": null,
-      "source": "gazetteer_substring",
-      "matched_to": "Peshawar",
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "afghan_jirga_p078"
-      ]
-    },
-    "Peshewar": {
-      "lat": 34.0151,
-      "lon": 71.5249,
-      "type": "city",
-      "note": "Capital of the North-West Frontier Province",
-      "parent_city": null,
-      "source": "gazetteer_exact",
-      "matched_to": "Peshawar",
-      "confidence": 0.9,
-      "found_in_sources": [
-        "ner_english",
-        "regex_english"
-      ],
-      "page_count": 7,
-      "page_ids": [
-        "afghan_jirga_p078",
-        "c_red_shirt_7_pesh_city_1937_p170",
-        "c_red_shirt_pesh_city_1945_p037",
-        "c_red_shirt_pesh_city_1945_p044",
-        "c_red_shirt_pesh_dist_1941_42_p106",
-        "c_red_shirts_1_pesh_city_1930_pdf_p086",
-        "camscanner_15_01_2026_1410_p074"
       ]
     },
     "Bara": {
@@ -3764,7 +3201,7 @@
         "ner_english",
         "regex_english"
       ],
-      "page_count": 60,
+      "page_count": 74,
       "page_ids": [
         "c_red_shirt_3_saddar_1931_p102",
         "c_red_shirt_3_saddar_1931_p011",
@@ -3825,26 +3262,35 @@
         "c_red_shirts_1_pesh_city_1930_pdf_p002",
         "c_red_shirts_1_pesh_city_1930_pdf_p091",
         "c_red_shirts_2_pesh_city_1930_p024",
-        "camscanner_15_01_2026_1410_p060"
-      ]
-    },
-    "Tehkalbala": {
-      "lat": 34.022,
-      "lon": 71.607,
-      "type": "locality",
-      "note": "Neighbourhood on the eastern edge of Peshawar, frequently mentioned in intelligence reports.",
-      "parent_city": "Peshawar",
-      "source": "gazetteer_exact",
-      "matched_to": "Tehkal",
-      "confidence": 0.9,
-      "found_in_sources": [
-        "ner_english",
-        "regex_english"
+        "camscanner_15_01_2026_1410_p060",
+        "c_red_shirt_pesh_1939_40_p128",
+        "c_red_shirt_pesh_1940_p152",
+        "c_red_shirt_pesh_1940_p153",
+        "c_red_shirt_pesh_city_1938_p146",
+        "c_red_shirts_2_pesh_city_1930_p023",
+        "c_red_shirt_pesh_city_1938_p112",
+        "c_red_shirt_pesh_city_1938_p053",
+        "c_red_shirt_pesh_city_1938_p242",
+        "c_red_shirt_pesh_city_1938_p058",
+        "c_red_shirt_pesh_city_1938_p060",
+        "c_red_shirt_pesh_city_1941_pdf_p027",
+        "c_red_shirt_pesh_city_1945_p026",
+        "c_red_shirts_2_pesh_city_1930_p022",
+        "c_red_shirts_2_pesh_city_1930_p003"
       ],
-      "page_count": 2,
-      "page_ids": [
-        "c_red_shirt_3_saddar_1931_p102",
-        "camscanner_15_01_2026_1410_p080"
+      "merged_aliases": [
+        "Euchian",
+        "Kachian",
+        "Kochian Alab",
+        "Kochien",
+        "Kochion",
+        "Kochiyan",
+        "Kocian",
+        "Koohian",
+        "Koohien",
+        "Kuchian",
+        "Kuchien",
+        "Xochian"
       ]
     },
     "Abdarra": {
@@ -3895,98 +3341,6 @@
         "tribal_research_cell_1968_p019"
       ]
     },
-    "Tehkal Bala": {
-      "lat": 34.022,
-      "lon": 71.607,
-      "type": "locality",
-      "note": "Neighbourhood on the eastern edge of Peshawar, frequently mentioned in intelligence reports.",
-      "parent_city": "Peshawar",
-      "source": "gazetteer_exact",
-      "matched_to": "Tehkal",
-      "confidence": 0.9,
-      "found_in_sources": [
-        "ner_english",
-        "regex_english"
-      ],
-      "page_count": 58,
-      "page_ids": [
-        "c_red_shirt_3_saddar_1931_p114",
-        "c_red_shirt_3_saddar_1931_p020",
-        "c_red_shirt_3_saddar_1931_p021",
-        "c_red_shirt_3_saddar_1931_p023",
-        "c_red_shirt_3_saddar_1931_p029",
-        "c_red_shirt_3_saddar_1931_p035",
-        "c_red_shirt_5_pesh_city_1931_p136",
-        "c_red_shirt_6_pesh_dist_1936_p019",
-        "c_red_shirt_pesh_1946_47_p024",
-        "c_red_shirt_pesh_city_1945_p103",
-        "c_red_shirt_pesh_city_1945_p047",
-        "c_red_shirt_pesh_city_1945_p075",
-        "c_red_shirt_pesh_dist_1941_42_p101",
-        "c_red_shirt_pesh_dist_1941_42_p103",
-        "c_red_shirt_pesh_dist_1941_42_p044",
-        "c_red_shirt_pesh_dist_1941_42_p048",
-        "c_red_shirt_pesh_dist_1941_42_p049",
-        "c_red_shirt_pesh_dist_1941_42_p052",
-        "c_red_shirt_pesh_dist_1941_42_p053",
-        "c_red_shirt_pesh_dist_1941_42_p054",
-        "c_red_shirt_pesh_dist_1941_42_p060",
-        "c_red_shirt_pesh_dist_1941_42_p061",
-        "c_red_shirt_pesh_dist_1941_42_p065",
-        "c_red_shirt_pesh_dist_1941_42_p068",
-        "c_red_shirt_pesh_dist_1941_42_p072",
-        "c_red_shirt_pesh_dist_1941_42_p081",
-        "c_red_shirt_pesh_dist_1941_42_p082",
-        "c_red_shirt_pesh_dist_1941_42_p083",
-        "c_red_shirt_pesh_dist_1941_42_p084",
-        "c_red_shirt_pesh_dist_1941_42_p085",
-        "c_red_shirt_pesh_dist_1941_42_p088",
-        "c_red_shirt_pesh_dist_1941_42_p089",
-        "camscanner_15_01_2026_1410_p100",
-        "camscanner_15_01_2026_1410_p102",
-        "camscanner_15_01_2026_1410_p131",
-        "camscanner_15_01_2026_1410_p029",
-        "camscanner_15_01_2026_1410_p033",
-        "camscanner_15_01_2026_1410_p038",
-        "camscanner_15_01_2026_1410_p043",
-        "camscanner_15_01_2026_1410_p047",
-        "camscanner_15_01_2026_1410_p005",
-        "camscanner_15_01_2026_1410_p051",
-        "camscanner_15_01_2026_1410_p060",
-        "camscanner_15_01_2026_1410_p061",
-        "camscanner_15_01_2026_1410_p067",
-        "camscanner_15_01_2026_1410_p071",
-        "camscanner_15_01_2026_1410_p087",
-        "camscanner_15_01_2026_1410_p088",
-        "camscanner_15_01_2026_1410_p090",
-        "camscanner_15_01_2026_1410_p091",
-        "camscanner_15_01_2026_1410_p095",
-        "camscanner_15_01_2026_1410_p096",
-        "camscanner_15_01_2026_1410_p097",
-        "camscanner_15_01_2026_1410_p099",
-        "red_shirt_6_1931_pesh_dist_p062",
-        "tribal_research_cell_1968_p016",
-        "tribal_research_cell_1968_p017",
-        "tribal_research_cell_1968_p019"
-      ]
-    },
-    "Ghaznavi": {
-      "lat": 33.5536,
-      "lon": 68.4151,
-      "type": "city",
-      "note": "Historic city in Afghanistan",
-      "parent_city": null,
-      "source": "gazetteer_substring",
-      "matched_to": "Ghazni",
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_3_saddar_1931_p012"
-      ]
-    },
     "Landi": {
       "lat": 34.093,
       "lon": 71.101,
@@ -4012,26 +3366,6 @@
         "red_shirt_6_1931_pesh_dist_p042"
       ]
     },
-    "Hashatbagri": {
-      "lat": 34.02,
-      "lon": 71.57,
-      "type": "locality",
-      "note": "A quarter of Peshawar city",
-      "parent_city": "Peshawar",
-      "source": "gazetteer_w2v_alias",
-      "matched_to": "Hashtnagri",
-      "edit_distance": 2,
-      "edit_ratio": 0.818,
-      "w2v_similarity": 0.7158,
-      "confidence": 0.75,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_3_saddar_1931_p122"
-      ]
-    },
     "Bannu": {
       "lat": 32.9891,
       "lon": 70.606,
@@ -4045,7 +3379,7 @@
         "ner_english",
         "regex_english"
       ],
-      "page_count": 64,
+      "page_count": 67,
       "page_ids": [
         "c_red_shirt_3_saddar_1931_p013",
         "c_red_shirt_3_saddar_1931_p152",
@@ -4110,7 +3444,16 @@
         "red_shirt_6_1931_pesh_dist_p017",
         "red_shirt_6_1931_pesh_dist_p039",
         "red_shirt_6_1931_pesh_dist_p040",
-        "red_shirt_6_1931_pesh_dist_p099"
+        "red_shirt_6_1931_pesh_dist_p099",
+        "c_red_shirt_6_pesh_dist_1936_p040",
+        "c_red_shirt_pesh_city_1941_pdf_p010",
+        "c_red_shirts_2_pesh_city_1930_p021"
+      ],
+      "merged_aliases": [
+        "Banmu",
+        "Bannu City",
+        "Bannu Districts",
+        "Banu"
       ]
     },
     "Simla": {
@@ -4153,7 +3496,7 @@
         "ner_english",
         "regex_english"
       ],
-      "page_count": 14,
+      "page_count": 15,
       "page_ids": [
         "c_red_shirt_3_saddar_1931_p156",
         "c_red_shirt_5_pesh_city_1931_p004",
@@ -4168,7 +3511,11 @@
         "c_red_shirt_pesh_city_1945_p083",
         "khudai_khidmatgar_1946_p118",
         "khudai_khidmatgar_1946_p065",
-        "khudai_khidmatgar_1946_p079"
+        "khudai_khidmatgar_1946_p079",
+        "c_red_shirt_pesh_city_1945_p060"
+      ],
+      "merged_aliases": [
+        "Caloutta"
       ]
     },
     "Bombay": {
@@ -4226,75 +3573,6 @@
         "red_shirt_6_1931_pesh_dist_p060"
       ]
     },
-    "Poshawar": {
-      "lat": 34.0151,
-      "lon": 71.5249,
-      "type": "city",
-      "note": "Capital of the North-West Frontier Province",
-      "parent_city": null,
-      "source": "gazetteer_exact",
-      "matched_to": "Peshawar",
-      "confidence": 0.9,
-      "found_in_sources": [
-        "ner_english",
-        "regex_english"
-      ],
-      "page_count": 11,
-      "page_ids": [
-        "c_red_shirt_3_saddar_1931_p016",
-        "c_red_shirt_5_pesh_city_1931_p131",
-        "c_red_shirt_6_pesh_dist_1936_p128",
-        "c_red_shirt_pesh_1946_47_p073",
-        "c_red_shirt_pesh_1946_47_p088",
-        "c_red_shirt_pesh_1946_47_p095",
-        "c_red_shirt_pesh_city_1940_p011",
-        "c_red_shirt_pesh_city_1940_p038",
-        "c_red_shirt_pesh_city_1941_pdf_p033",
-        "c_red_shirt_pesh_city_1945_p062",
-        "camscanner_15_01_2026_1410_p012"
-      ]
-    },
-    "Mahazara": {
-      "lat": 34.14,
-      "lon": 71.73,
-      "type": "village",
-      "note": "Village in the Charsadda/Peshawar area associated with Red Shirt activity.",
-      "parent_city": null,
-      "source": "gazetteer_exact",
-      "matched_to": "Mahzara",
-      "confidence": 0.9,
-      "found_in_sources": [
-        "ner_english",
-        "regex_english"
-      ],
-      "page_count": 5,
-      "page_ids": [
-        "c_red_shirt_3_saddar_1931_p165",
-        "c_red_shirt_3_saddar_1931_p004",
-        "c_red_shirt_6_pesh_dist_1936_p037",
-        "c_red_shirt_6_pesh_dist_1936_p040",
-        "c_red_shirt_6_pesh_dist_1936_p056"
-      ]
-    },
-    "Hashtnagar": {
-      "lat": 34.1455,
-      "lon": 71.7308,
-      "type": "town",
-      "note": "Ancient town near Peshawar",
-      "parent_city": null,
-      "source": "gazetteer_exact",
-      "matched_to": "Charsadda",
-      "confidence": 0.9,
-      "found_in_sources": [
-        "ner_english",
-        "regex_english"
-      ],
-      "page_count": 2,
-      "page_ids": [
-        "c_red_shirt_3_saddar_1931_p018",
-        "c_red_shirt_pesh_dist_1941_42_p045"
-      ]
-    },
     "China": {
       "lat": 33.8997,
       "lon": 70.0997,
@@ -4331,7 +3609,7 @@
         "regex_original",
         "ner_english"
       ],
-      "page_count": 36,
+      "page_count": 38,
       "page_ids": [
         "c_red_shirt_3_saddar_1931_p020",
         "c_red_shirt_5_pesh_city_1931_p133",
@@ -4368,47 +3646,13 @@
         "khudai_khidmatgar_1946_p079",
         "red_shirt_6_1931_pesh_dist_p032",
         "red_shirt_6_1931_pesh_dist_p071",
-        "red_shirt_6_1931_pesh_dist_p080"
-      ]
-    },
-    "Feshuwar": {
-      "lat": 34.0151,
-      "lon": 71.5249,
-      "type": "city",
-      "note": "Capital of the North-West Frontier Province",
-      "parent_city": null,
-      "source": "gazetteer_w2v_alias",
-      "matched_to": "Peshawar",
-      "edit_distance": 2,
-      "edit_ratio": 0.75,
-      "w2v_similarity": 0.5366,
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
+        "red_shirt_6_1931_pesh_dist_p080",
+        "c_red_shirt_7_pesh_city_1937_p105",
+        "c_red_shirts_1_pesh_city_1930_pdf_p024"
       ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_3_saddar_1931_p213"
-      ]
-    },
-    "Ragi": {
-      "lat": 33.975,
-      "lon": 71.445,
-      "type": "locality",
-      "note": "Area south of Peshawar near the Kohat road, part of the Regi Lalma plateau.",
-      "parent_city": "Peshawar",
-      "source": "gazetteer_exact",
-      "matched_to": "Regi",
-      "confidence": 0.9,
-      "found_in_sources": [
-        "ner_english",
-        "regex_english"
-      ],
-      "page_count": 3,
-      "page_ids": [
-        "c_red_shirt_3_saddar_1931_p214",
-        "c_red_shirt_3_saddar_1931_p006",
-        "camscanner_15_01_2026_1410_p058"
+      "merged_aliases": [
+        "Dehli",
+        "New Delhi"
       ]
     },
     "Malakand": {
@@ -4446,7 +3690,7 @@
         "ner_english",
         "regex_english"
       ],
-      "page_count": 7,
+      "page_count": 8,
       "page_ids": [
         "c_red_shirt_3_saddar_1931_p222",
         "c_red_shirt_4_banamari_incident_pdf_p011",
@@ -4454,7 +3698,11 @@
         "c_red_shirt_pesh_dist_1941_42_p040",
         "camscanner_15_01_2026_1410_p020",
         "camscanner_15_01_2026_1410_p061",
-        "khudai_khidmatgar_1946_p107"
+        "khudai_khidmatgar_1946_p107",
+        "c_red_shirt_pesh_city_1945_p001"
+      ],
+      "merged_aliases": [
+        "Spat"
       ]
     },
     "Jalal": {
@@ -4475,122 +3723,6 @@
         "red_shirt_6_1931_pesh_dist_p074"
       ]
     },
-    "Tenkal": {
-      "lat": 34.022,
-      "lon": 71.607,
-      "type": "locality",
-      "note": "Neighbourhood on the eastern edge of Peshawar, frequently mentioned in intelligence reports.",
-      "parent_city": "Peshawar",
-      "source": "gazetteer_w2v_alias",
-      "matched_to": "Tehkal",
-      "edit_distance": 1,
-      "edit_ratio": 0.833,
-      "w2v_similarity": 0.5869,
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 2,
-      "page_ids": [
-        "c_red_shirt_3_saddar_1931_p025",
-        "c_red_shirt_3_saddar_1931_p070"
-      ]
-    },
-    "Tehka": {
-      "lat": 34.022,
-      "lon": 71.607,
-      "type": "locality",
-      "note": "Neighbourhood on the eastern edge of Peshawar, frequently mentioned in intelligence reports.",
-      "parent_city": "Peshawar",
-      "source": "gazetteer_w2v_alias",
-      "matched_to": "Tehkal",
-      "edit_distance": 1,
-      "edit_ratio": 0.833,
-      "w2v_similarity": 0.5443,
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 2,
-      "page_ids": [
-        "c_red_shirt_3_saddar_1931_p026",
-        "camscanner_15_01_2026_1410_p123"
-      ]
-    },
-    "Wazir": {
-      "lat": 32.3,
-      "lon": 69.8,
-      "type": "region",
-      "note": "Mountainous tribal region",
-      "parent_city": null,
-      "source": "gazetteer_substring",
-      "matched_to": "Waziristan",
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_3_saddar_1931_p036"
-      ]
-    },
-    "Hashtnagaris": {
-      "lat": 34.02,
-      "lon": 71.57,
-      "type": "locality",
-      "note": "A quarter of Peshawar city",
-      "parent_city": "Peshawar",
-      "source": "gazetteer_w2v_alias",
-      "matched_to": "Hashtnagri",
-      "edit_distance": 2,
-      "edit_ratio": 0.833,
-      "w2v_similarity": 0.5232,
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_3_saddar_1931_p059"
-      ]
-    },
-    "Kachian": {
-      "lat": 34.055,
-      "lon": 71.73,
-      "type": "village",
-      "note": "Village in the Peshawar valley, frequently referenced in Red Shirt movement reports.",
-      "parent_city": null,
-      "source": "gazetteer_exact",
-      "matched_to": "Kochian",
-      "confidence": 0.9,
-      "found_in_sources": [
-        "ner_english",
-        "regex_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_3_saddar_1931_p007"
-      ]
-    },
-    "Mahmand": {
-      "lat": 34.5,
-      "lon": 71.1,
-      "type": "region",
-      "note": "Tribal agency",
-      "parent_city": null,
-      "source": "gazetteer_edit_key",
-      "matched_to": "Mohmand",
-      "edit_distance": 1,
-      "edit_ratio": 0.857,
-      "confidence": 0.78,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_3_saddar_1931_p008"
-      ]
-    },
     "Tirah": {
       "lat": 33.75,
       "lon": 70.75,
@@ -4604,7 +3736,7 @@
         "ner_english",
         "regex_english"
       ],
-      "page_count": 15,
+      "page_count": 17,
       "page_ids": [
         "c_red_shirt_3_saddar_1931_p093",
         "c_red_shirt_6_pesh_dist_1936_p083",
@@ -4620,27 +3752,14 @@
         "c_red_shirt_pesh_dist_1941_42_p079",
         "c_red_shirt_pesh_dist_1941_42_p081",
         "c_red_shirt_pesh_dist_1941_42_p083",
-        "red_shirt_6_1931_pesh_dist_p030"
-      ]
-    },
-    "Peshaw": {
-      "lat": 34.0151,
-      "lon": 71.5249,
-      "type": "city",
-      "note": "Capital of the North-West Frontier Province",
-      "parent_city": null,
-      "source": "gazetteer_w2v_alias",
-      "matched_to": "Peshawar",
-      "edit_distance": 2,
-      "edit_ratio": 0.75,
-      "w2v_similarity": 0.5338,
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
+        "red_shirt_6_1931_pesh_dist_p030",
+        "c_red_shirt_6_pesh_dist_1936_p113",
+        "c_red_shirt_pesh_dist_1941_42_p084"
       ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_3_saddar_1931_p099"
+      "merged_aliases": [
+        "Tirat",
+        "Tiroh",
+        "Turkeyn Tirah"
       ]
     },
     "Chitral": {
@@ -4723,86 +3842,6 @@
         "c_red_shirts_1_pesh_city_1930_pdf_p009"
       ]
     },
-    "Kabull": {
-      "lat": 34.526,
-      "lon": 69.1776,
-      "type": "city",
-      "note": "Capital of Afghanistan",
-      "parent_city": null,
-      "source": "gazetteer_substring",
-      "matched_to": "Kabul",
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_5_pesh_city_1931_p101"
-      ]
-    },
-    "Pechawar": {
-      "lat": 34.0151,
-      "lon": 71.5249,
-      "type": "city",
-      "note": "Capital of the North-West Frontier Province",
-      "parent_city": null,
-      "source": "gazetteer_w2v_alias",
-      "matched_to": "Peshawar",
-      "edit_distance": 1,
-      "edit_ratio": 0.875,
-      "w2v_similarity": 0.5214,
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_5_pesh_city_1931_p104"
-      ]
-    },
-    "Khyber": {
-      "lat": 34.087,
-      "lon": 71.084,
-      "type": "pass",
-      "note": "Strategic mountain pass",
-      "parent_city": null,
-      "source": "gazetteer_exact",
-      "matched_to": "Khyber Pass",
-      "confidence": 0.9,
-      "found_in_sources": [
-        "regex_english"
-      ],
-      "page_count": 7,
-      "page_ids": [
-        "c_red_shirt_5_pesh_city_1931_p104",
-        "c_red_shirt_6_pesh_dist_1936_p069",
-        "c_red_shirt_7_pesh_city_1937_p107",
-        "c_red_shirt_pesh_dist_1941_42_p075",
-        "camscanner_15_01_2026_1410_p109",
-        "khilafat_posters_p008",
-        "tribal_research_cell_1968_p001"
-      ]
-    },
-    "Peshamar": {
-      "lat": 34.0151,
-      "lon": 71.5249,
-      "type": "city",
-      "note": "Capital of the North-West Frontier Province",
-      "parent_city": null,
-      "source": "gazetteer_w2v_alias",
-      "matched_to": "Peshawar",
-      "edit_distance": 1,
-      "edit_ratio": 0.875,
-      "w2v_similarity": 0.5636,
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_5_pesh_city_1931_p117"
-      ]
-    },
     "Amritsar": {
       "lat": 31.634,
       "lon": 74.8723,
@@ -4816,7 +3855,7 @@
         "ner_english",
         "regex_english"
       ],
-      "page_count": 14,
+      "page_count": 15,
       "page_ids": [
         "c_red_shirt_5_pesh_city_1931_p127",
         "c_red_shirt_7_pesh_city_1937_p029",
@@ -4831,7 +3870,11 @@
         "khudai_khidmatgar_1946_p105",
         "red_shirt_6_1931_pesh_dist_p024",
         "red_shirt_6_1931_pesh_dist_p035",
-        "red_shirt_6_1931_pesh_dist_p060"
+        "red_shirt_6_1931_pesh_dist_p060",
+        "c_red_shirt_pesh_city_1938_p186"
+      ],
+      "merged_aliases": [
+        "Amritear"
       ]
     },
     "Namak Mandi": {
@@ -4847,7 +3890,7 @@
         "ner_english",
         "regex_english"
       ],
-      "page_count": 38,
+      "page_count": 49,
       "page_ids": [
         "c_red_shirt_5_pesh_city_1931_p133",
         "c_red_shirt_5_pesh_city_1931_p144",
@@ -4886,28 +3929,26 @@
         "red_shirt_6_1931_pesh_dist_p075",
         "red_shirt_6_1931_pesh_dist_p086",
         "tribal_research_cell_1968_p023",
-        "tribal_research_cell_1968_p005"
-      ]
-    },
-    "Yadgar Chowk": {
-      "lat": 34.0078,
-      "lon": 71.571,
-      "type": "landmark",
-      "note": "Central square in Peshawar city",
-      "parent_city": "Peshawar",
-      "source": "gazetteer_exact",
-      "matched_to": "Chowk Yadgar",
-      "confidence": 0.9,
-      "found_in_sources": [
-        "regex_english"
+        "tribal_research_cell_1968_p005",
+        "c_red_shirt_pesh_1939_40_p033",
+        "c_red_shirt_pesh_1940_p011",
+        "c_red_shirt_pesh_city_1940_p060",
+        "c_red_shirts_1_pesh_city_1930_pdf_p026",
+        "red_shirt_6_1931_pesh_dist_p029",
+        "red_shirt_6_1931_pesh_dist_p088",
+        "c_red_shirt_pesh_1939_40_p037",
+        "c_red_shirt_pesh_1946_47_p050",
+        "c_red_shirt_pesh_1939_40_p056",
+        "c_red_shirt_pesh_1940_p059",
+        "tribal_research_cell_1968_p026"
       ],
-      "page_count": 5,
-      "page_ids": [
-        "c_red_shirt_5_pesh_city_1931_p142",
-        "c_red_shirt_5_pesh_city_1931_p143",
-        "red_shirt_6_1931_pesh_dist_p042",
-        "red_shirt_6_1931_pesh_dist_p051",
-        "red_shirt_6_1931_pesh_dist_p058"
+      "merged_aliases": [
+        "Hemak Mandi",
+        "Namak",
+        "Namak Mandi Bazar",
+        "Namak Mandi Peshawar",
+        "Nimak Mandi",
+        "Ninak Mandi"
       ]
     },
     "Telle": {
@@ -4979,7 +4020,7 @@
         "ner_english",
         "regex_english"
       ],
-      "page_count": 19,
+      "page_count": 21,
       "page_ids": [
         "c_red_shirt_5_pesh_city_1931_p162",
         "c_red_shirt_6_pesh_dist_1936_p108",
@@ -4999,25 +4040,13 @@
         "c_red_shirt_pesh_dist_1941_42_p032",
         "c_red_shirts_1_pesh_city_1930_pdf_p102",
         "camscanner_15_01_2026_1410_p034",
-        "red_shirt_6_1931_pesh_dist_p088"
-      ]
-    },
-    "Kabuli": {
-      "lat": 34.526,
-      "lon": 69.1776,
-      "type": "city",
-      "note": "Capital of Afghanistan",
-      "parent_city": null,
-      "source": "gazetteer_substring",
-      "matched_to": "Kabul",
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
+        "red_shirt_6_1931_pesh_dist_p088",
+        "c_red_shirt_3_saddar_1931_p122",
+        "c_red_shirt_3_saddar_1931_p059"
       ],
-      "page_count": 2,
-      "page_ids": [
-        "c_red_shirt_5_pesh_city_1931_p018",
-        "c_red_shirt_5_pesh_city_1931_p045"
+      "merged_aliases": [
+        "Hashatbagri",
+        "Hashtnagaris"
       ]
     },
     "Bazar": {
@@ -5096,65 +4125,6 @@
         "c_red_shirt_5_pesh_city_1931_p038"
       ]
     },
-    "Cantt": {
-      "lat": 34.005,
-      "lon": 71.5,
-      "type": "cantonment",
-      "note": "British military area of Peshawar",
-      "parent_city": "Peshawar",
-      "source": "gazetteer_substring",
-      "matched_to": "Peshawar Cantonment",
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 5,
-      "page_ids": [
-        "c_red_shirt_5_pesh_city_1931_p044",
-        "c_red_shirt_5_pesh_city_1931_p046",
-        "c_red_shirt_7_pesh_city_1937_p222",
-        "c_red_shirt_pesh_city_1940_p054",
-        "c_red_shirts_2_pesh_city_1930_p025"
-      ]
-    },
-    "Mahmund": {
-      "lat": 34.5,
-      "lon": 71.1,
-      "type": "region",
-      "note": "Tribal agency",
-      "parent_city": null,
-      "source": "gazetteer_edit_alias",
-      "matched_to": "Mohmand",
-      "edit_distance": 1,
-      "edit_ratio": 0.857,
-      "confidence": 0.75,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_5_pesh_city_1931_p005"
-      ]
-    },
-    "Peshaar": {
-      "lat": 34.0151,
-      "lon": 71.5249,
-      "type": "city",
-      "note": "Capital of the North-West Frontier Province",
-      "parent_city": null,
-      "source": "gazetteer_exact",
-      "matched_to": "Peshawar",
-      "confidence": 0.9,
-      "found_in_sources": [
-        "ner_english",
-        "regex_english"
-      ],
-      "page_count": 2,
-      "page_ids": [
-        "c_red_shirt_5_pesh_city_1931_p053",
-        "c_red_shirt_pesh_city_1938_p193"
-      ]
-    },
     "Andar Shehr": {
       "lat": 34.01,
       "lon": 71.565,
@@ -5187,7 +4157,7 @@
         "ner_english",
         "regex_english"
       ],
-      "page_count": 9,
+      "page_count": 12,
       "page_ids": [
         "c_red_shirt_5_pesh_city_1931_p069",
         "c_red_shirts_1_pesh_city_1930_pdf_p089",
@@ -5197,73 +4167,14 @@
         "camscanner_15_01_2026_1410_p075",
         "red_shirt_6_1931_pesh_dist_p080",
         "red_shirt_6_1931_pesh_dist_p099",
-        "tribal_research_cell_1968_p019"
-      ]
-    },
-    "D I Khan": {
-      "lat": 31.8314,
-      "lon": 70.9017,
-      "type": "town",
-      "note": "District headquarters in NWFP",
-      "parent_city": null,
-      "source": "gazetteer_exact",
-      "matched_to": "Dera Ismail Khan",
-      "confidence": 0.9,
-      "found_in_sources": [
-        "regex_english"
+        "tribal_research_cell_1968_p019",
+        "c_red_shirts_1_pesh_city_1930_pdf_p100",
+        "red_shirt_6_1931_pesh_dist_p081",
+        "c_red_shirts_1_pesh_city_1930_pdf_p043"
       ],
-      "page_count": 2,
-      "page_ids": [
-        "c_red_shirt_5_pesh_city_1931_p069",
-        "c_red_shirt_pesh_1940_p153"
-      ]
-    },
-    "Peshawar Cantt": {
-      "lat": 34.005,
-      "lon": 71.5,
-      "type": "cantonment",
-      "note": "British military area of Peshawar",
-      "parent_city": "Peshawar",
-      "source": "gazetteer_exact",
-      "matched_to": "Peshawar Cantonment",
-      "confidence": 0.9,
-      "found_in_sources": [
-        "regex_english"
-      ],
-      "page_count": 32,
-      "page_ids": [
-        "c_red_shirt_5_pesh_city_1931_p070",
-        "c_red_shirt_5_pesh_city_1931_p094",
-        "c_red_shirt_5_pesh_city_1931_p095",
-        "c_red_shirt_6_pesh_dist_1936_p040",
-        "c_red_shirt_7_pesh_city_1937_p106",
-        "c_red_shirt_7_pesh_city_1937_p111",
-        "c_red_shirt_7_pesh_city_1937_p193",
-        "c_red_shirt_7_pesh_city_1937_p208",
-        "c_red_shirt_7_pesh_city_1937_p219",
-        "c_red_shirt_7_pesh_city_1937_p223",
-        "c_red_shirt_7_pesh_city_1937_p029",
-        "c_red_shirt_7_pesh_city_1937_p031",
-        "c_red_shirt_7_pesh_city_1937_p063",
-        "c_red_shirt_7_pesh_city_1937_p089",
-        "c_red_shirt_7_pesh_city_1937_p094",
-        "c_red_shirt_pesh_1940_p121",
-        "c_red_shirt_pesh_1940_p138",
-        "c_red_shirt_pesh_city_1938_p158",
-        "c_red_shirt_pesh_city_1938_p170",
-        "c_red_shirt_pesh_city_1938_p213",
-        "c_red_shirt_pesh_city_1938_p232",
-        "c_red_shirt_pesh_city_1938_p250",
-        "c_red_shirt_pesh_city_1938_p030",
-        "c_red_shirt_pesh_city_1940_p003",
-        "c_red_shirt_pesh_city_1940_p045",
-        "c_red_shirt_pesh_city_1940_p054",
-        "c_red_shirt_pesh_city_1940_p057",
-        "c_red_shirt_pesh_city_1941_pdf_p036",
-        "c_red_shirt_pesh_city_1945_p098",
-        "red_shirt_6_1931_pesh_dist_p042",
-        "red_shirt_6_1931_pesh_dist_p060",
-        "red_shirt_6_1931_pesh_dist_p091"
+      "merged_aliases": [
+        "Kawalpindi",
+        "Pindi"
       ]
     },
     "Kissakhand": {
@@ -5277,26 +4188,6 @@
       "edit_distance": 2,
       "edit_ratio": 0.818,
       "confidence": 0.55,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_5_pesh_city_1931_p009"
-      ]
-    },
-    "Chouk Yadgar": {
-      "lat": 34.0078,
-      "lon": 71.571,
-      "type": "landmark",
-      "note": "Central square in Peshawar city",
-      "parent_city": "Peshawar",
-      "source": "gazetteer_w2v_alias",
-      "matched_to": "Chowk Yadgar",
-      "edit_distance": 1,
-      "edit_ratio": 0.917,
-      "w2v_similarity": 0.6186,
-      "confidence": 0.6,
       "found_in_sources": [
         "ner_english"
       ],
@@ -5358,54 +4249,19 @@
       "found_in_sources": [
         "regex_english"
       ],
-      "page_count": 5,
+      "page_count": 7,
       "page_ids": [
         "c_red_shirt_6_pesh_dist_1936_p108",
         "c_red_shirt_6_pesh_dist_1936_p095",
         "c_red_shirt_7_pesh_city_1937_p112",
         "c_red_shirt_7_pesh_city_1937_p086",
-        "c_red_shirt_pesh_city_1945_p071"
-      ]
-    },
-    "Mohand": {
-      "lat": 34.5,
-      "lon": 71.1,
-      "type": "region",
-      "note": "Tribal agency",
-      "parent_city": null,
-      "source": "gazetteer_edit_key",
-      "matched_to": "Mohmand",
-      "edit_distance": 1,
-      "edit_ratio": 0.857,
-      "confidence": 0.78,
-      "found_in_sources": [
-        "ner_english"
+        "c_red_shirt_pesh_city_1945_p071",
+        "c_red_shirts_1_pesh_city_1930_pdf_p093",
+        "c_red_shirts_1_pesh_city_1930_pdf_p094"
       ],
-      "page_count": 2,
-      "page_ids": [
-        "c_red_shirt_6_pesh_dist_1936_p112",
-        "c_red_shirt_pesh_dist_1941_42_p014"
-      ]
-    },
-    "Tiroh": {
-      "lat": 33.75,
-      "lon": 70.75,
-      "type": "valley",
-      "note": "Remote tribal valley",
-      "parent_city": null,
-      "source": "gazetteer_w2v_alias",
-      "matched_to": "Tirah",
-      "edit_distance": 1,
-      "edit_ratio": 0.8,
-      "w2v_similarity": 0.6245,
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 2,
-      "page_ids": [
-        "c_red_shirt_6_pesh_dist_1936_p113",
-        "c_red_shirt_pesh_dist_1941_42_p064"
+      "merged_aliases": [
+        "City Railway Station",
+        "City Station"
       ]
     },
     "Mahabat Khan Mosque": {
@@ -5427,25 +4283,6 @@
         "camscanner_15_01_2026_1410_p110"
       ]
     },
-    "Penhawar": {
-      "lat": 34.0151,
-      "lon": 71.5249,
-      "type": "city",
-      "note": "Capital of the North-West Frontier Province",
-      "parent_city": null,
-      "source": "gazetteer_edit_key",
-      "matched_to": "Peshawar",
-      "edit_distance": 1,
-      "edit_ratio": 0.875,
-      "confidence": 0.78,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_6_pesh_dist_1936_p018"
-      ]
-    },
     "Peshawar Cantonment": {
       "lat": 34.005,
       "lon": 71.5,
@@ -5458,7 +4295,7 @@
       "found_in_sources": [
         "regex_english"
       ],
-      "page_count": 33,
+      "page_count": 68,
       "page_ids": [
         "c_red_shirt_6_pesh_dist_1936_p032",
         "c_red_shirt_7_pesh_city_1937_p156",
@@ -5492,64 +4329,48 @@
         "c_red_shirt_pesh_city_1945_p092",
         "c_red_shirt_pesh_city_1945_p093",
         "c_red_shirt_pesh_city_1945_p096",
-        "red_shirt_6_1931_pesh_dist_p081"
-      ]
-    },
-    "Pesunwar": {
-      "lat": 34.0151,
-      "lon": 71.5249,
-      "type": "city",
-      "note": "Capital of the North-West Frontier Province",
-      "parent_city": null,
-      "source": "gazetteer_w2v_alias",
-      "matched_to": "Peshawar",
-      "edit_distance": 2,
-      "edit_ratio": 0.75,
-      "w2v_similarity": 0.5379,
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_6_pesh_dist_1936_p040"
-      ]
-    },
-    "Banu": {
-      "lat": 32.9891,
-      "lon": 70.606,
-      "type": "town",
-      "note": "District headquarters in NWFP",
-      "parent_city": null,
-      "source": "gazetteer_exact",
-      "matched_to": "Bannu",
-      "confidence": 0.9,
-      "found_in_sources": [
-        "regex_english"
-      ],
-      "page_count": 2,
-      "page_ids": [
+        "red_shirt_6_1931_pesh_dist_p081",
+        "c_red_shirt_5_pesh_city_1931_p044",
+        "c_red_shirt_5_pesh_city_1931_p046",
+        "c_red_shirt_7_pesh_city_1937_p222",
+        "c_red_shirt_pesh_city_1940_p054",
+        "c_red_shirts_2_pesh_city_1930_p025",
+        "c_red_shirt_5_pesh_city_1931_p070",
+        "c_red_shirt_5_pesh_city_1931_p094",
+        "c_red_shirt_5_pesh_city_1931_p095",
         "c_red_shirt_6_pesh_dist_1936_p040",
-        "c_red_shirt_pesh_city_1941_pdf_p010"
-      ]
-    },
-    "Mehazara": {
-      "lat": 34.14,
-      "lon": 71.73,
-      "type": "village",
-      "note": "Village in the Charsadda/Peshawar area associated with Red Shirt activity.",
-      "parent_city": null,
-      "source": "gazetteer_edit_alias",
-      "matched_to": "Mahzara",
-      "edit_distance": 1,
-      "edit_ratio": 0.875,
-      "confidence": 0.75,
-      "found_in_sources": [
-        "ner_english"
+        "c_red_shirt_7_pesh_city_1937_p106",
+        "c_red_shirt_7_pesh_city_1937_p111",
+        "c_red_shirt_7_pesh_city_1937_p193",
+        "c_red_shirt_7_pesh_city_1937_p223",
+        "c_red_shirt_7_pesh_city_1937_p029",
+        "c_red_shirt_7_pesh_city_1937_p031",
+        "c_red_shirt_7_pesh_city_1937_p063",
+        "c_red_shirt_7_pesh_city_1937_p089",
+        "c_red_shirt_pesh_1940_p121",
+        "c_red_shirt_pesh_1940_p138",
+        "c_red_shirt_pesh_city_1938_p158",
+        "c_red_shirt_pesh_city_1938_p170",
+        "c_red_shirt_pesh_city_1938_p213",
+        "c_red_shirt_pesh_city_1938_p232",
+        "c_red_shirt_pesh_city_1938_p250",
+        "c_red_shirt_pesh_city_1938_p030",
+        "c_red_shirt_pesh_city_1940_p003",
+        "c_red_shirt_pesh_city_1940_p045",
+        "c_red_shirt_pesh_city_1940_p057",
+        "c_red_shirt_pesh_city_1941_pdf_p036",
+        "c_red_shirt_pesh_city_1945_p098",
+        "red_shirt_6_1931_pesh_dist_p042",
+        "red_shirt_6_1931_pesh_dist_p060",
+        "red_shirt_6_1931_pesh_dist_p091",
+        "c_red_shirt_pesh_city_1938_p223",
+        "c_red_shirt_pesh_city_1940_p050"
       ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_6_pesh_dist_1936_p056"
+      "merged_aliases": [
+        "Anton",
+        "Cantt",
+        "Peshawar Cantt",
+        "Peshawar Contt"
       ]
     },
     "Kissa": {
@@ -5575,71 +4396,6 @@
         "c_red_shirts_1_pesh_city_1930_pdf_p093"
       ]
     },
-    "Kandar": {
-      "lat": 31.6289,
-      "lon": 65.7372,
-      "type": "city",
-      "note": "Major city in southern Afghanistan",
-      "parent_city": null,
-      "source": "gazetteer_w2v_alias",
-      "matched_to": "Kandahar",
-      "edit_distance": 2,
-      "edit_ratio": 0.75,
-      "w2v_similarity": 0.5928,
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_6_pesh_dist_1936_p089"
-      ]
-    },
-    "New Delhi": {
-      "lat": 28.6139,
-      "lon": 77.209,
-      "type": "city",
-      "note": "Imperial capital",
-      "parent_city": null,
-      "source": "gazetteer_exact",
-      "matched_to": "Delhi",
-      "confidence": 0.9,
-      "found_in_sources": [
-        "ner_english",
-        "regex_english"
-      ],
-      "page_count": 2,
-      "page_ids": [
-        "c_red_shirt_7_pesh_city_1937_p105",
-        "c_red_shirt_pesh_city_1945_p082"
-      ]
-    },
-    "Kohet": {
-      "lat": 33.5869,
-      "lon": 71.4414,
-      "type": "town",
-      "note": "District headquarters in NWFP",
-      "parent_city": null,
-      "source": "gazetteer_exact",
-      "matched_to": "Kohat",
-      "confidence": 0.9,
-      "found_in_sources": [
-        "ner_english",
-        "regex_english"
-      ],
-      "page_count": 9,
-      "page_ids": [
-        "c_red_shirt_7_pesh_city_1937_p107",
-        "c_red_shirt_7_pesh_city_1937_p184",
-        "c_red_shirt_7_pesh_city_1937_p040",
-        "c_red_shirt_7_pesh_city_1937_p041",
-        "c_red_shirt_pesh_city_1938_p141",
-        "c_red_shirt_pesh_city_1938_p145",
-        "c_red_shirt_pesh_city_1938_p147",
-        "c_red_shirt_pesh_city_1938_p155",
-        "c_red_shirt_pesh_city_1938_p025"
-      ]
-    },
     "Waziristan": {
       "lat": 32.3,
       "lon": 69.8,
@@ -5653,7 +4409,7 @@
         "ner_english",
         "regex_english"
       ],
-      "page_count": 19,
+      "page_count": 23,
       "page_ids": [
         "c_red_shirt_7_pesh_city_1937_p113",
         "c_red_shirt_7_pesh_city_1937_p087",
@@ -5673,7 +4429,17 @@
         "c_red_shirt_pesh_city_1941_pdf_p028",
         "c_red_shirt_pesh_city_1941_pdf_p030",
         "c_red_shirt_pesh_city_1941_pdf_p032",
-        "c_red_shirt_pesh_city_1941_pdf_p034"
+        "c_red_shirt_pesh_city_1941_pdf_p034",
+        "c_red_shirt_3_saddar_1931_p036",
+        "c_red_shirt_7_pesh_city_1937_p094",
+        "c_red_shirt_pesh_1940_p038",
+        "c_red_shirt_pesh_city_1938_p251"
+      ],
+      "merged_aliases": [
+        "Haziristan",
+        "Wazir",
+        "Wazirietan",
+        "Waziris"
       ]
     },
     "Khyber Pass": {
@@ -5688,11 +4454,21 @@
       "found_in_sources": [
         "regex_english"
       ],
-      "page_count": 3,
+      "page_count": 10,
       "page_ids": [
         "c_red_shirt_7_pesh_city_1937_p114",
         "c_red_shirt_7_pesh_city_1937_p081",
-        "c_red_shirt_7_pesh_city_1937_p087"
+        "c_red_shirt_7_pesh_city_1937_p087",
+        "c_red_shirt_5_pesh_city_1931_p104",
+        "c_red_shirt_6_pesh_dist_1936_p069",
+        "c_red_shirt_7_pesh_city_1937_p107",
+        "c_red_shirt_pesh_dist_1941_42_p075",
+        "camscanner_15_01_2026_1410_p109",
+        "khilafat_posters_p008",
+        "tribal_research_cell_1968_p001"
+      ],
+      "merged_aliases": [
+        "Khyber"
       ]
     },
     "Mohalla": {
@@ -5721,125 +4497,6 @@
         "red_shirt_6_1931_pesh_dist_p006"
       ]
     },
-    "Lahare": {
-      "lat": 31.5497,
-      "lon": 74.3436,
-      "type": "city",
-      "note": "Capital of the Punjab",
-      "parent_city": null,
-      "source": "gazetteer_w2v_alias",
-      "matched_to": "Lahore",
-      "edit_distance": 1,
-      "edit_ratio": 0.833,
-      "w2v_similarity": 0.5711,
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_7_pesh_city_1937_p164"
-      ]
-    },
-    "Qustta": {
-      "lat": 30.1798,
-      "lon": 66.975,
-      "type": "city",
-      "note": "Capital of Balochistan",
-      "parent_city": null,
-      "source": "gazetteer_w2v_alias",
-      "matched_to": "Quetta",
-      "edit_distance": 1,
-      "edit_ratio": 0.833,
-      "w2v_similarity": 0.6477,
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_7_pesh_city_1937_p168"
-      ]
-    },
-    "Bannu City": {
-      "lat": 32.9891,
-      "lon": 70.606,
-      "type": "town",
-      "note": "District headquarters in NWFP",
-      "parent_city": null,
-      "source": "gazetteer_substring",
-      "matched_to": "Bannu",
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_7_pesh_city_1937_p170"
-      ]
-    },
-    "Turanga": {
-      "lat": 34.202,
-      "lon": 71.875,
-      "type": "village",
-      "note": "Village near Charsadda, home of the Mullah of Turangzai (Fazlul Wahid), a prominent frontier resistance figure.",
-      "parent_city": null,
-      "source": "gazetteer_edit_alias",
-      "matched_to": "Turangzai",
-      "edit_distance": 1,
-      "edit_ratio": 0.875,
-      "confidence": 0.75,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_7_pesh_city_1937_p217"
-      ]
-    },
-    "Peshwar": {
-      "lat": 34.0151,
-      "lon": 71.5249,
-      "type": "city",
-      "note": "Capital of the North-West Frontier Province",
-      "parent_city": null,
-      "source": "gazetteer_exact",
-      "matched_to": "Peshawar",
-      "confidence": 0.9,
-      "found_in_sources": [
-        "ner_english",
-        "regex_english"
-      ],
-      "page_count": 6,
-      "page_ids": [
-        "c_red_shirt_7_pesh_city_1937_p217",
-        "c_red_shirt_pesh_1940_p018",
-        "c_red_shirt_pesh_1940_p028",
-        "c_red_shirt_pesh_1946_47_p031",
-        "c_red_shirt_pesh_city_1945_p020",
-        "c_red_shirts_2_pesh_city_1930_p021"
-      ]
-    },
-    "Chowk": {
-      "lat": 34.0078,
-      "lon": 71.571,
-      "type": "landmark",
-      "note": "Central square in Peshawar city",
-      "parent_city": "Peshawar",
-      "source": "gazetteer_substring",
-      "matched_to": "Chowk Yadgar",
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 4,
-      "page_ids": [
-        "c_red_shirt_7_pesh_city_1937_p219",
-        "c_red_shirt_pesh_1946_47_p088",
-        "c_red_shirt_pesh_city_1938_p170",
-        "c_red_shirt_pesh_city_1940_p039"
-      ]
-    },
     "Ghazni": {
       "lat": 33.5536,
       "lon": 68.4151,
@@ -5853,9 +4510,13 @@
         "ner_english",
         "regex_english"
       ],
-      "page_count": 1,
+      "page_count": 2,
       "page_ids": [
-        "c_red_shirt_7_pesh_city_1937_p219"
+        "c_red_shirt_7_pesh_city_1937_p219",
+        "c_red_shirt_3_saddar_1931_p012"
+      ],
+      "merged_aliases": [
+        "Ghaznavi"
       ]
     },
     "Allahabad": {
@@ -5877,25 +4538,6 @@
         "c_red_shirt_7_pesh_city_1937_p003"
       ]
     },
-    "Pesheer": {
-      "lat": 34.0151,
-      "lon": 71.5249,
-      "type": "city",
-      "note": "Capital of the North-West Frontier Province",
-      "parent_city": null,
-      "source": "gazetteer_edit_alias",
-      "matched_to": "Peshawar",
-      "edit_distance": 1,
-      "edit_ratio": 0.875,
-      "confidence": 0.75,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_7_pesh_city_1937_p032"
-      ]
-    },
     "Tower": {
       "lat": 34.0075,
       "lon": 71.572,
@@ -5911,45 +4553,6 @@
       "page_count": 1,
       "page_ids": [
         "c_red_shirt_7_pesh_city_1937_p032"
-      ]
-    },
-    "Peshevar": {
-      "lat": 34.0151,
-      "lon": 71.5249,
-      "type": "city",
-      "note": "Capital of the North-West Frontier Province",
-      "parent_city": null,
-      "source": "gazetteer_exact",
-      "matched_to": "Peshawar",
-      "confidence": 0.9,
-      "found_in_sources": [
-        "ner_english",
-        "regex_english"
-      ],
-      "page_count": 3,
-      "page_ids": [
-        "c_red_shirt_7_pesh_city_1937_p071",
-        "c_red_shirt_pesh_1946_47_p098",
-        "camscanner_15_01_2026_1410_p121"
-      ]
-    },
-    "Pesawar": {
-      "lat": 34.0151,
-      "lon": 71.5249,
-      "type": "city",
-      "note": "Capital of the North-West Frontier Province",
-      "parent_city": null,
-      "source": "gazetteer_exact",
-      "matched_to": "Peshawar",
-      "confidence": 0.9,
-      "found_in_sources": [
-        "ner_english",
-        "regex_english"
-      ],
-      "page_count": 2,
-      "page_ids": [
-        "c_red_shirt_7_pesh_city_1937_p078",
-        "c_red_shirt_pesh_1940_p016"
       ]
     },
     "Clock Tower": {
@@ -5989,81 +4592,6 @@
         "c_red_shirt_pesh_1940_p138"
       ]
     },
-    "Wazirietan": {
-      "lat": 32.3,
-      "lon": 69.8,
-      "type": "region",
-      "note": "Mountainous tribal region",
-      "parent_city": null,
-      "source": "gazetteer_w2v_alias",
-      "matched_to": "Waziristan",
-      "edit_distance": 1,
-      "edit_ratio": 0.9,
-      "w2v_similarity": 0.6598,
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_7_pesh_city_1937_p094"
-      ]
-    },
-    "Peshawarch": {
-      "lat": 34.0151,
-      "lon": 71.5249,
-      "type": "city",
-      "note": "Capital of the North-West Frontier Province",
-      "parent_city": null,
-      "source": "gazetteer_substring",
-      "matched_to": "Peshawar",
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_pesh_1939_40_p001"
-      ]
-    },
-    "Kochion": {
-      "lat": 34.055,
-      "lon": 71.73,
-      "type": "village",
-      "note": "Village in the Peshawar valley, frequently referenced in Red Shirt movement reports.",
-      "parent_city": null,
-      "source": "gazetteer_w2v_alias",
-      "matched_to": "Kochian",
-      "edit_distance": 1,
-      "edit_ratio": 0.857,
-      "w2v_similarity": 0.7545,
-      "confidence": 0.75,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_pesh_1939_40_p128"
-      ]
-    },
-    "Pesha": {
-      "lat": 34.0151,
-      "lon": 71.5249,
-      "type": "city",
-      "note": "Capital of the North-West Frontier Province",
-      "parent_city": null,
-      "source": "gazetteer_substring",
-      "matched_to": "Peshawar",
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 2,
-      "page_ids": [
-        "c_red_shirt_pesh_1939_40_p020",
-        "c_red_shirt_pesh_city_1945_p030"
-      ]
-    },
     "Lahori Gate": {
       "lat": 34.006,
       "lon": 71.57,
@@ -6076,7 +4604,7 @@
       "found_in_sources": [
         "regex_english"
       ],
-      "page_count": 12,
+      "page_count": 13,
       "page_ids": [
         "c_red_shirt_pesh_1939_40_p032",
         "c_red_shirts_1_pesh_city_1930_pdf_p023",
@@ -6089,216 +4617,11 @@
         "red_shirt_6_1931_pesh_dist_p044",
         "red_shirt_6_1931_pesh_dist_p073",
         "red_shirt_6_1931_pesh_dist_p077",
-        "red_shirt_6_1931_pesh_dist_p080"
-      ]
-    },
-    "Nimak Mandi": {
-      "lat": 34.009,
-      "lon": 71.561,
-      "type": "bazaar",
-      "note": "Salt market in Peshawar",
-      "parent_city": "Peshawar",
-      "source": "gazetteer_w2v_alias",
-      "matched_to": "Namak Mandi",
-      "edit_distance": 1,
-      "edit_ratio": 0.909,
-      "w2v_similarity": 0.6557,
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
+        "red_shirt_6_1931_pesh_dist_p080",
+        "c_red_shirts_1_pesh_city_1930_pdf_p068"
       ],
-      "page_count": 6,
-      "page_ids": [
-        "c_red_shirt_pesh_1939_40_p033",
-        "c_red_shirt_pesh_1940_p011",
-        "c_red_shirt_pesh_city_1940_p060",
-        "c_red_shirts_1_pesh_city_1930_pdf_p026",
-        "red_shirt_6_1931_pesh_dist_p029",
-        "red_shirt_6_1931_pesh_dist_p088"
-      ]
-    },
-    "Namak": {
-      "lat": 34.009,
-      "lon": 71.561,
-      "type": "bazaar",
-      "note": "Salt market in Peshawar",
-      "parent_city": "Peshawar",
-      "source": "gazetteer_substring",
-      "matched_to": "Namak Mandi",
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 10,
-      "page_ids": [
-        "c_red_shirt_pesh_1939_40_p037",
-        "c_red_shirt_pesh_1940_p138",
-        "c_red_shirt_pesh_1946_47_p050",
-        "c_red_shirt_pesh_city_1938_p238",
-        "c_red_shirt_pesh_city_1938_p240",
-        "red_shirt_6_1931_pesh_dist_p021",
-        "red_shirt_6_1931_pesh_dist_p032",
-        "red_shirt_6_1931_pesh_dist_p051",
-        "red_shirt_6_1931_pesh_dist_p056",
-        "red_shirt_6_1931_pesh_dist_p069"
-      ]
-    },
-    "Namak Mandi Bazar": {
-      "lat": 34.009,
-      "lon": 71.561,
-      "type": "bazaar",
-      "note": "Salt market in Peshawar",
-      "parent_city": "Peshawar",
-      "source": "gazetteer_exact",
-      "matched_to": "Namak Mandi",
-      "confidence": 0.9,
-      "found_in_sources": [
-        "regex_english"
-      ],
-      "page_count": 2,
-      "page_ids": [
-        "c_red_shirt_pesh_1939_40_p037",
-        "c_red_shirt_pesh_1946_47_p050"
-      ]
-    },
-    "Peshaner": {
-      "lat": 34.0151,
-      "lon": 71.5249,
-      "type": "city",
-      "note": "Capital of the North-West Frontier Province",
-      "parent_city": null,
-      "source": "gazetteer_edit_alias",
-      "matched_to": "Peshawar",
-      "edit_distance": 1,
-      "edit_ratio": 0.875,
-      "confidence": 0.75,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_pesh_1939_40_p004"
-      ]
-    },
-    "Ninak Mandi": {
-      "lat": 34.009,
-      "lon": 71.561,
-      "type": "bazaar",
-      "note": "Salt market in Peshawar",
-      "parent_city": "Peshawar",
-      "source": "gazetteer_w2v_alias",
-      "matched_to": "Namak Mandi",
-      "edit_distance": 2,
-      "edit_ratio": 0.818,
-      "w2v_similarity": 0.582,
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_pesh_1939_40_p056"
-      ]
-    },
-    "Tehsil": {
-      "lat": 34.12,
-      "lon": 72.47,
-      "type": "town",
-      "note": "Town in Peshawar valley",
-      "parent_city": null,
-      "source": "gazetteer_substring",
-      "matched_to": "Swabi",
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 6,
-      "page_ids": [
-        "c_red_shirt_pesh_1939_40_p072",
-        "c_red_shirt_pesh_1946_47_p104",
-        "c_red_shirt_pesh_city_1940_p012",
-        "c_red_shirt_pesh_city_1941_pdf_p051",
-        "c_red_shirts_2_pesh_city_1930_p007",
-        "camscanner_15_01_2026_1410_p122"
-      ]
-    },
-    "Chowk Yadcar": {
-      "lat": 34.0078,
-      "lon": 71.571,
-      "type": "landmark",
-      "note": "Central square in Peshawar city",
-      "parent_city": "Peshawar",
-      "source": "gazetteer_w2v_alias",
-      "matched_to": "Chowk Yadgar",
-      "edit_distance": 1,
-      "edit_ratio": 0.917,
-      "w2v_similarity": 0.6691,
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_pesh_1939_40_p094"
-      ]
-    },
-    "Kochien": {
-      "lat": 34.055,
-      "lon": 71.73,
-      "type": "village",
-      "note": "Village in the Peshawar valley, frequently referenced in Red Shirt movement reports.",
-      "parent_city": null,
-      "source": "gazetteer_exact",
-      "matched_to": "Kochian",
-      "confidence": 0.9,
-      "found_in_sources": [
-        "ner_english",
-        "regex_english"
-      ],
-      "page_count": 5,
-      "page_ids": [
-        "c_red_shirt_pesh_1940_p152",
-        "c_red_shirt_pesh_1940_p153",
-        "c_red_shirt_pesh_city_1938_p146",
-        "c_red_shirts_2_pesh_city_1930_p023",
-        "c_red_shirts_2_pesh_city_1930_p024"
-      ]
-    },
-    "Chork Yadear": {
-      "lat": 34.0078,
-      "lon": 71.571,
-      "type": "landmark",
-      "note": "Central square in Peshawar city",
-      "parent_city": "Peshawar",
-      "source": "gazetteer_w2v_alias",
-      "matched_to": "Chowk Yadgar",
-      "edit_distance": 2,
-      "edit_ratio": 0.833,
-      "w2v_similarity": 0.5857,
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_pesh_1940_p028"
-      ]
-    },
-    "Waziris": {
-      "lat": 32.3,
-      "lon": 69.8,
-      "type": "region",
-      "note": "Mountainous tribal region",
-      "parent_city": null,
-      "source": "gazetteer_substring",
-      "matched_to": "Waziristan",
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_pesh_1940_p038"
+      "merged_aliases": [
+        "Lahori Darwaza"
       ]
     },
     "Sialkot": {
@@ -6320,43 +4643,6 @@
         "red_shirt_6_1931_pesh_dist_p058",
         "red_shirt_6_1931_pesh_dist_p060",
         "red_shirt_6_1931_pesh_dist_p061"
-      ]
-    },
-    "Hemak Mandi": {
-      "lat": 34.009,
-      "lon": 71.561,
-      "type": "bazaar",
-      "note": "Salt market in Peshawar",
-      "parent_city": "Peshawar",
-      "source": "gazetteer_w2v_alias",
-      "matched_to": "Namak Mandi",
-      "edit_distance": 2,
-      "edit_ratio": 0.818,
-      "w2v_similarity": 0.6734,
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_pesh_1940_p059"
-      ]
-    },
-    "Lahorefiring": {
-      "lat": 31.5497,
-      "lon": 74.3436,
-      "type": "city",
-      "note": "Capital of the Punjab",
-      "parent_city": null,
-      "source": "gazetteer_substring",
-      "matched_to": "Lahore",
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_pesh_1940_p006"
       ]
     },
     "Qissakhani": {
@@ -6397,59 +4683,6 @@
         "c_red_shirt_pesh_1940_p079"
       ]
     },
-    "Poshawar City": {
-      "lat": 34.0151,
-      "lon": 71.5249,
-      "type": "city",
-      "note": "Capital of the North-West Frontier Province",
-      "parent_city": null,
-      "source": "gazetteer_substring",
-      "matched_to": "Peshawar",
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_pesh_1946_47_p073"
-      ]
-    },
-    "Nagar": {
-      "lat": 34.1455,
-      "lon": 71.7308,
-      "type": "town",
-      "note": "Ancient town near Peshawar",
-      "parent_city": null,
-      "source": "gazetteer_substring",
-      "matched_to": "Charsadda",
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_pesh_1946_47_p088"
-      ]
-    },
-    "Haghtnagr": {
-      "lat": 34.1455,
-      "lon": 71.7308,
-      "type": "town",
-      "note": "Ancient town near Peshawar",
-      "parent_city": null,
-      "source": "gazetteer_edit_relaxed",
-      "matched_to": "Charsadda",
-      "edit_distance": 2,
-      "edit_ratio": 0.8,
-      "confidence": 0.55,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_pesh_1946_47_p090"
-      ]
-    },
     "Jalala": {
       "lat": 34.4415,
       "lon": 70.436,
@@ -6465,45 +4698,6 @@
       "page_count": 1,
       "page_ids": [
         "c_red_shirt_pesh_city_1938_p112"
-      ]
-    },
-    "Kuchian": {
-      "lat": 34.055,
-      "lon": 71.73,
-      "type": "village",
-      "note": "Village in the Peshawar valley, frequently referenced in Red Shirt movement reports.",
-      "parent_city": null,
-      "source": "gazetteer_exact",
-      "matched_to": "Kochian",
-      "confidence": 0.9,
-      "found_in_sources": [
-        "ner_english",
-        "regex_english"
-      ],
-      "page_count": 2,
-      "page_ids": [
-        "c_red_shirt_pesh_city_1938_p112",
-        "c_red_shirt_pesh_city_1938_p053"
-      ]
-    },
-    "Charsada": {
-      "lat": 34.1455,
-      "lon": 71.7308,
-      "type": "town",
-      "note": "Ancient town near Peshawar",
-      "parent_city": null,
-      "source": "gazetteer_exact",
-      "matched_to": "Charsadda",
-      "confidence": 0.9,
-      "found_in_sources": [
-        "regex_english"
-      ],
-      "page_count": 4,
-      "page_ids": [
-        "c_red_shirt_pesh_city_1938_p148",
-        "c_red_shirt_pesh_city_1938_p035",
-        "c_red_shirt_pesh_city_1938_p060",
-        "c_red_shirt_pesh_city_1938_p009"
       ]
     },
     "Hyderabad": {
@@ -6523,45 +4717,6 @@
         "c_red_shirt_pesh_city_1938_p165"
       ]
     },
-    "Amritear": {
-      "lat": 31.634,
-      "lon": 74.8723,
-      "type": "city",
-      "note": "Holy city in Punjab",
-      "parent_city": null,
-      "source": "gazetteer_w2v_alias",
-      "matched_to": "Amritsar",
-      "edit_distance": 1,
-      "edit_ratio": 0.875,
-      "w2v_similarity": 0.542,
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_pesh_city_1938_p186"
-      ]
-    },
-    "Pesherer": {
-      "lat": 34.0151,
-      "lon": 71.5249,
-      "type": "city",
-      "note": "Capital of the North-West Frontier Province",
-      "parent_city": null,
-      "source": "gazetteer_edit_alias",
-      "matched_to": "Peshawar",
-      "edit_distance": 1,
-      "edit_ratio": 0.875,
-      "confidence": 0.75,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_pesh_city_1938_p217"
-      ]
-    },
     "Haripur": {
       "lat": 33.9942,
       "lon": 72.94,
@@ -6574,7 +4729,7 @@
       "found_in_sources": [
         "regex_english"
       ],
-      "page_count": 9,
+      "page_count": 20,
       "page_ids": [
         "c_red_shirt_pesh_city_1938_p222",
         "c_red_shirt_pesh_city_1945_p034",
@@ -6584,64 +4739,23 @@
         "c_red_shirts_1_pesh_city_1930_pdf_p050",
         "c_red_shirts_1_pesh_city_1930_pdf_p062",
         "camscanner_15_01_2026_1410_p053",
-        "camscanner_15_01_2026_1410_p068"
-      ]
-    },
-    "Peshawar Contt": {
-      "lat": 34.005,
-      "lon": 71.5,
-      "type": "cantonment",
-      "note": "British military area of Peshawar",
-      "parent_city": "Peshawar",
-      "source": "gazetteer_edit_alias",
-      "matched_to": "Peshawar Cantonment",
-      "edit_distance": 1,
-      "edit_ratio": 0.929,
-      "confidence": 0.75,
-      "found_in_sources": [
-        "ner_english"
+        "camscanner_15_01_2026_1410_p068",
+        "1968_p028",
+        "afghan_jirga_p107",
+        "afghan_jirga_p108",
+        "c_red_shirt_5_pesh_city_1931_p069",
+        "c_red_shirt_6_pesh_dist_1936_p054",
+        "c_red_shirt_6_pesh_dist_1936_p062",
+        "c_red_shirt_6_pesh_dist_1936_p083",
+        "c_red_shirt_7_pesh_city_1937_p015",
+        "c_red_shirt_pesh_1946_47_p089",
+        "camscanner_15_01_2026_1410_p113",
+        "camscanner_15_01_2026_1410_p056"
       ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_pesh_city_1938_p223"
-      ]
-    },
-    "Kochiyan": {
-      "lat": 34.055,
-      "lon": 71.73,
-      "type": "village",
-      "note": "Village in the Peshawar valley, frequently referenced in Red Shirt movement reports.",
-      "parent_city": null,
-      "source": "gazetteer_exact",
-      "matched_to": "Kochian",
-      "confidence": 0.9,
-      "found_in_sources": [
-        "ner_english",
-        "regex_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_pesh_city_1938_p242"
-      ]
-    },
-    "Haziristan": {
-      "lat": 32.3,
-      "lon": 69.8,
-      "type": "region",
-      "note": "Mountainous tribal region",
-      "parent_city": null,
-      "source": "gazetteer_w2v_alias",
-      "matched_to": "Waziristan",
-      "edit_distance": 1,
-      "edit_ratio": 0.9,
-      "w2v_similarity": 0.6071,
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_pesh_city_1938_p251"
+      "merged_aliases": [
+        "Dharipur",
+        "Hazara",
+        "Heripur"
       ]
     },
     "Andar": {
@@ -6659,158 +4773,6 @@
       "page_count": 1,
       "page_ids": [
         "c_red_shirt_pesh_city_1938_p003"
-      ]
-    },
-    "Utmanzi": {
-      "lat": 34.1765,
-      "lon": 71.7847,
-      "type": "village",
-      "note": "Village in Charsadda district, birthplace of Khan Abdul Ghaffar Khan and headquarters of the Khudai Khidmatgar movement.",
-      "parent_city": null,
-      "source": "gazetteer_exact",
-      "matched_to": "Utmanzai",
-      "confidence": 0.9,
-      "found_in_sources": [
-        "ner_english",
-        "regex_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_pesh_city_1938_p049"
-      ]
-    },
-    "Utaenzai": {
-      "lat": 34.1765,
-      "lon": 71.7847,
-      "type": "village",
-      "note": "Village in Charsadda district, birthplace of Khan Abdul Ghaffar Khan and headquarters of the Khudai Khidmatgar movement.",
-      "parent_city": null,
-      "source": "gazetteer_edit_alias",
-      "matched_to": "Utmanzai",
-      "edit_distance": 1,
-      "edit_ratio": 0.875,
-      "confidence": 0.75,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_pesh_city_1938_p050"
-      ]
-    },
-    "Mahzafa": {
-      "lat": 34.14,
-      "lon": 71.73,
-      "type": "village",
-      "note": "Village in the Charsadda/Peshawar area associated with Red Shirt activity.",
-      "parent_city": null,
-      "source": "gazetteer_w2v_alias",
-      "matched_to": "Mahzara",
-      "edit_distance": 1,
-      "edit_ratio": 0.857,
-      "w2v_similarity": 0.5505,
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_pesh_city_1938_p053"
-      ]
-    },
-    "Euchian": {
-      "lat": 34.055,
-      "lon": 71.73,
-      "type": "village",
-      "note": "Village in the Peshawar valley, frequently referenced in Red Shirt movement reports.",
-      "parent_city": null,
-      "source": "gazetteer_edit_alias",
-      "matched_to": "Kochian",
-      "edit_distance": 1,
-      "edit_ratio": 0.857,
-      "confidence": 0.75,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_pesh_city_1938_p058"
-      ]
-    },
-    "Kuchien": {
-      "lat": 34.055,
-      "lon": 71.73,
-      "type": "village",
-      "note": "Village in the Peshawar valley, frequently referenced in Red Shirt movement reports.",
-      "parent_city": null,
-      "source": "gazetteer_edit_alias",
-      "matched_to": "Kochian",
-      "edit_distance": 1,
-      "edit_ratio": 0.857,
-      "confidence": 0.75,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_pesh_city_1938_p060"
-      ]
-    },
-    "Peshever": {
-      "lat": 34.0151,
-      "lon": 71.5249,
-      "type": "city",
-      "note": "Capital of the North-West Frontier Province",
-      "parent_city": null,
-      "source": "gazetteer_edit_alias",
-      "matched_to": "Peshawar",
-      "edit_distance": 1,
-      "edit_ratio": 0.875,
-      "confidence": 0.75,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 2,
-      "page_ids": [
-        "c_red_shirt_pesh_city_1938_p074",
-        "c_red_shirt_pesh_dist_1941_42_p041"
-      ]
-    },
-    "Turkeyn Tirah": {
-      "lat": 33.75,
-      "lon": 70.75,
-      "type": "valley",
-      "note": "Remote tribal valley",
-      "parent_city": null,
-      "source": "gazetteer_substring",
-      "matched_to": "Tirah",
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_pesh_city_1938_p090"
-      ]
-    },
-    "Chouk Yadger": {
-      "lat": 34.0078,
-      "lon": 71.571,
-      "type": "landmark",
-      "note": "Central square in Peshawar city",
-      "parent_city": "Peshawar",
-      "source": "gazetteer_w2v_alias",
-      "matched_to": "Chowk Yadgar",
-      "edit_distance": 2,
-      "edit_ratio": 0.833,
-      "w2v_similarity": 0.656,
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_pesh_city_1940_p010"
       ]
     },
     "Chaman": {
@@ -6832,23 +4794,6 @@
         "red_shirt_6_1931_pesh_dist_p058"
       ]
     },
-    "Anton": {
-      "lat": 34.005,
-      "lon": 71.5,
-      "type": "cantonment",
-      "note": "British military area of Peshawar",
-      "parent_city": "Peshawar",
-      "source": "gazetteer_substring",
-      "matched_to": "Peshawar Cantonment",
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_pesh_city_1940_p050"
-      ]
-    },
     "Mansehra": {
       "lat": 34.3294,
       "lon": 73.1972,
@@ -6862,7 +4807,7 @@
         "ner_english",
         "regex_english"
       ],
-      "page_count": 8,
+      "page_count": 9,
       "page_ids": [
         "c_red_shirt_pesh_city_1941_pdf_p016",
         "c_red_shirt_pesh_city_1941_pdf_p017",
@@ -6871,88 +4816,11 @@
         "c_red_shirt_pesh_city_1945_p034",
         "khudai_khidmatgar_1946_p080",
         "red_shirt_6_1931_pesh_dist_p086",
-        "red_shirt_6_1931_pesh_dist_p099"
-      ]
-    },
-    "Xochian": {
-      "lat": 34.055,
-      "lon": 71.73,
-      "type": "village",
-      "note": "Village in the Peshawar valley, frequently referenced in Red Shirt movement reports.",
-      "parent_city": null,
-      "source": "gazetteer_w2v_alias",
-      "matched_to": "Kochian",
-      "edit_distance": 1,
-      "edit_ratio": 0.857,
-      "w2v_similarity": 0.5803,
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
+        "red_shirt_6_1931_pesh_dist_p099",
+        "red_shirt_6_1931_pesh_dist_p003"
       ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_pesh_city_1941_pdf_p027"
-      ]
-    },
-    "Lahori": {
-      "lat": 31.5497,
-      "lon": 74.3436,
-      "type": "city",
-      "note": "Capital of the Punjab",
-      "parent_city": null,
-      "source": "gazetteer_substring",
-      "matched_to": "Lahore",
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 8,
-      "page_ids": [
-        "c_red_shirt_pesh_city_1941_pdf_p046",
-        "c_red_shirt_pesh_city_1941_pdf_p047",
-        "c_red_shirt_pesh_city_1941_pdf_p048",
-        "red_shirt_6_1931_pesh_dist_p010",
-        "red_shirt_6_1931_pesh_dist_p044",
-        "red_shirt_6_1931_pesh_dist_p073",
-        "red_shirt_6_1931_pesh_dist_p077",
-        "red_shirt_6_1931_pesh_dist_p080"
-      ]
-    },
-    "Spat": {
-      "lat": 34.7731,
-      "lon": 72.3598,
-      "type": "valley",
-      "note": "Princely state and valley",
-      "parent_city": null,
-      "source": "gazetteer_w2v_alias",
-      "matched_to": "Swat",
-      "edit_distance": 1,
-      "edit_ratio": 0.75,
-      "w2v_similarity": 0.5204,
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_pesh_city_1945_p001"
-      ]
-    },
-    "Pekha": {
-      "lat": 34.0151,
-      "lon": 71.5249,
-      "type": "city",
-      "note": "Capital of the North-West Frontier Province",
-      "parent_city": null,
-      "source": "gazetteer_substring",
-      "matched_to": "Peshawar",
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_pesh_city_1945_p015"
+      "merged_aliases": [
+        "Manshera"
       ]
     },
     "Gujranwala": {
@@ -6971,116 +4839,6 @@
       "page_count": 1,
       "page_ids": [
         "c_red_shirt_pesh_city_1945_p019"
-      ]
-    },
-    "Peshamr": {
-      "lat": 34.0151,
-      "lon": 71.5249,
-      "type": "city",
-      "note": "Capital of the North-West Frontier Province",
-      "parent_city": null,
-      "source": "gazetteer_w2v_alias",
-      "matched_to": "Peshawar",
-      "edit_distance": 2,
-      "edit_ratio": 0.75,
-      "w2v_similarity": 0.5347,
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_pesh_city_1945_p002"
-      ]
-    },
-    "City Peshawar": {
-      "lat": 34.0151,
-      "lon": 71.5249,
-      "type": "city",
-      "note": "Capital of the North-West Frontier Province",
-      "parent_city": null,
-      "source": "gazetteer_substring",
-      "matched_to": "Peshawar",
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 2,
-      "page_ids": [
-        "c_red_shirt_pesh_city_1945_p025",
-        "c_red_shirts_1_pesh_city_1930_pdf_p049"
-      ]
-    },
-    "Koohian": {
-      "lat": 34.055,
-      "lon": 71.73,
-      "type": "village",
-      "note": "Village in the Peshawar valley, frequently referenced in Red Shirt movement reports.",
-      "parent_city": null,
-      "source": "gazetteer_edit_key",
-      "matched_to": "Kochian",
-      "edit_distance": 1,
-      "edit_ratio": 0.857,
-      "confidence": 0.78,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_pesh_city_1945_p026"
-      ]
-    },
-    "Peshaver City": {
-      "lat": 34.0151,
-      "lon": 71.5249,
-      "type": "city",
-      "note": "Capital of the North-West Frontier Province",
-      "parent_city": null,
-      "source": "gazetteer_substring",
-      "matched_to": "Peshawar",
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_pesh_city_1945_p031"
-      ]
-    },
-    "Mohalleh Lahorian": {
-      "lat": 31.5497,
-      "lon": 74.3436,
-      "type": "city",
-      "note": "Capital of the Punjab",
-      "parent_city": null,
-      "source": "gazetteer_substring",
-      "matched_to": "Lahore",
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_pesh_city_1945_p057"
-      ]
-    },
-    "Caloutta": {
-      "lat": 22.5726,
-      "lon": 88.3639,
-      "type": "city",
-      "note": "Former imperial capital",
-      "parent_city": null,
-      "source": "gazetteer_edit_key",
-      "matched_to": "Calcutta",
-      "edit_distance": 1,
-      "edit_ratio": 0.875,
-      "confidence": 0.78,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_pesh_city_1945_p060"
       ]
     },
     "Khana": {
@@ -7118,190 +4876,6 @@
         "c_red_shirt_pesh_city_1945_p082"
       ]
     },
-    "Utmanze": {
-      "lat": 34.1765,
-      "lon": 71.7847,
-      "type": "village",
-      "note": "Village in Charsadda district, birthplace of Khan Abdul Ghaffar Khan and headquarters of the Khudai Khidmatgar movement.",
-      "parent_city": null,
-      "source": "gazetteer_exact",
-      "matched_to": "Utmanzai",
-      "confidence": 0.9,
-      "found_in_sources": [
-        "ner_english",
-        "regex_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_pesh_dist_1941_42_p100"
-      ]
-    },
-    "Tohkal Bala": {
-      "lat": 34.022,
-      "lon": 71.607,
-      "type": "locality",
-      "note": "Neighbourhood on the eastern edge of Peshawar, frequently mentioned in intelligence reports.",
-      "parent_city": "Peshawar",
-      "source": "gazetteer_edit_alias",
-      "matched_to": "Tehkal",
-      "edit_distance": 1,
-      "edit_ratio": 0.909,
-      "confidence": 0.75,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_pesh_dist_1941_42_p110"
-      ]
-    },
-    "Peshower": {
-      "lat": 34.0151,
-      "lon": 71.5249,
-      "type": "city",
-      "note": "Capital of the North-West Frontier Province",
-      "parent_city": null,
-      "source": "gazetteer_w2v_alias",
-      "matched_to": "Peshawar",
-      "edit_distance": 2,
-      "edit_ratio": 0.75,
-      "w2v_similarity": 0.5644,
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_pesh_dist_1941_42_p025"
-      ]
-    },
-    "Tahkel Bala": {
-      "lat": 34.022,
-      "lon": 71.607,
-      "type": "locality",
-      "note": "Neighbourhood on the eastern edge of Peshawar, frequently mentioned in intelligence reports.",
-      "parent_city": "Peshawar",
-      "source": "gazetteer_edit_relaxed",
-      "matched_to": "Tehkal",
-      "edit_distance": 2,
-      "edit_ratio": 0.818,
-      "confidence": 0.55,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_pesh_dist_1941_42_p028"
-      ]
-    },
-    "Mohmends": {
-      "lat": 34.5,
-      "lon": 71.1,
-      "type": "region",
-      "note": "Tribal agency",
-      "parent_city": null,
-      "source": "gazetteer_edit_alias",
-      "matched_to": "Mohmand",
-      "edit_distance": 1,
-      "edit_ratio": 0.875,
-      "confidence": 0.75,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_pesh_dist_1941_42_p034"
-      ]
-    },
-    "Tappa Mohmand": {
-      "lat": 34.5,
-      "lon": 71.1,
-      "type": "region",
-      "note": "Tribal agency",
-      "parent_city": null,
-      "source": "gazetteer_substring",
-      "matched_to": "Mohmand",
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_pesh_dist_1941_42_p079"
-      ]
-    },
-    "Tirat": {
-      "lat": 33.75,
-      "lon": 70.75,
-      "type": "valley",
-      "note": "Remote tribal valley",
-      "parent_city": null,
-      "source": "gazetteer_w2v_alias",
-      "matched_to": "Tirah",
-      "edit_distance": 1,
-      "edit_ratio": 0.8,
-      "w2v_similarity": 0.7364,
-      "confidence": 0.75,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirt_pesh_dist_1941_42_p084"
-      ]
-    },
-    "Pindi": {
-      "lat": 33.6007,
-      "lon": 73.0679,
-      "type": "city",
-      "note": "Major garrison city in Punjab",
-      "parent_city": null,
-      "source": "gazetteer_exact",
-      "matched_to": "Rawalpindi",
-      "confidence": 0.9,
-      "found_in_sources": [
-        "regex_english"
-      ],
-      "page_count": 2,
-      "page_ids": [
-        "c_red_shirts_1_pesh_city_1930_pdf_p100",
-        "red_shirt_6_1931_pesh_dist_p081"
-      ]
-    },
-    "Kochian Alab": {
-      "lat": 34.055,
-      "lon": 71.73,
-      "type": "village",
-      "note": "Village in the Peshawar valley, frequently referenced in Red Shirt movement reports.",
-      "parent_city": null,
-      "source": "gazetteer_substring",
-      "matched_to": "Kochian",
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirts_1_pesh_city_1930_pdf_p002"
-      ]
-    },
-    "Dehli": {
-      "lat": 28.6139,
-      "lon": 77.209,
-      "type": "city",
-      "note": "Imperial capital",
-      "parent_city": null,
-      "source": "gazetteer_exact",
-      "matched_to": "Delhi",
-      "confidence": 0.9,
-      "found_in_sources": [
-        "regex_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirts_1_pesh_city_1930_pdf_p024"
-      ]
-    },
     "Bajauri": {
       "lat": 34.6833,
       "lon": 71.5,
@@ -7323,76 +4897,6 @@
         "red_shirt_6_1931_pesh_dist_p056"
       ]
     },
-    "Kawalpindi": {
-      "lat": 33.6007,
-      "lon": 73.0679,
-      "type": "city",
-      "note": "Major garrison city in Punjab",
-      "parent_city": null,
-      "source": "gazetteer_edit_key",
-      "matched_to": "Rawalpindi",
-      "edit_distance": 1,
-      "edit_ratio": 0.9,
-      "confidence": 0.78,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirts_1_pesh_city_1930_pdf_p043"
-      ]
-    },
-    "Cherat": {
-      "lat": 34.3529,
-      "lon": 62.204,
-      "type": "city",
-      "note": "Historic city in western Afghanistan",
-      "parent_city": null,
-      "source": "gazetteer_substring",
-      "matched_to": "Herat",
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirts_1_pesh_city_1930_pdf_p064"
-      ]
-    },
-    "Lahori Darwaza": {
-      "lat": 34.006,
-      "lon": 71.57,
-      "type": "landmark",
-      "note": "Gate in the Peshawar city wall",
-      "parent_city": "Peshawar",
-      "source": "gazetteer_exact",
-      "matched_to": "Lahori Gate",
-      "confidence": 0.9,
-      "found_in_sources": [
-        "regex_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirts_1_pesh_city_1930_pdf_p068"
-      ]
-    },
-    "City Railway Station": {
-      "lat": 34.0089,
-      "lon": 71.5416,
-      "type": "railway_station",
-      "note": "Railway station in Peshawar city",
-      "parent_city": "Peshawar",
-      "source": "gazetteer_substring",
-      "matched_to": "Peshawar City Railway Station",
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirts_1_pesh_city_1930_pdf_p093"
-      ]
-    },
     "Attock": {
       "lat": 33.7667,
       "lon": 72.3667,
@@ -7406,30 +4910,20 @@
         "ner_english",
         "regex_english"
       ],
-      "page_count": 5,
+      "page_count": 9,
       "page_ids": [
         "c_red_shirts_1_pesh_city_1930_pdf_p093",
         "camscanner_15_01_2026_1410_p010",
         "camscanner_15_01_2026_1410_p011",
         "camscanner_15_01_2026_1410_p012",
-        "camscanner_15_01_2026_1410_p009"
-      ]
-    },
-    "City Station": {
-      "lat": 34.0089,
-      "lon": 71.5416,
-      "type": "railway_station",
-      "note": "Railway station in Peshawar city",
-      "parent_city": "Peshawar",
-      "source": "gazetteer_substring",
-      "matched_to": "Peshawar City Railway Station",
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
+        "camscanner_15_01_2026_1410_p009",
+        "1968_p027",
+        "c_red_shirt_7_pesh_city_1937_p219",
+        "c_red_shirt_7_pesh_city_1937_p096",
+        "c_red_shirt_pesh_1946_47_p053"
       ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirts_1_pesh_city_1930_pdf_p094"
+      "merged_aliases": [
+        "Campbellpur"
       ]
     },
     "Kurrum": {
@@ -7447,65 +4941,6 @@
       "page_count": 1,
       "page_ids": [
         "c_red_shirts_2_pesh_city_1930_p013"
-      ]
-    },
-    "Turangaai": {
-      "lat": 34.202,
-      "lon": 71.875,
-      "type": "village",
-      "note": "Village near Charsadda, home of the Mullah of Turangzai (Fazlul Wahid), a prominent frontier resistance figure.",
-      "parent_city": null,
-      "source": "gazetteer_w2v_alias",
-      "matched_to": "Turangzai",
-      "edit_distance": 1,
-      "edit_ratio": 0.889,
-      "w2v_similarity": 0.5862,
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirts_2_pesh_city_1930_p014"
-      ]
-    },
-    "Banmu": {
-      "lat": 32.9891,
-      "lon": 70.606,
-      "type": "town",
-      "note": "District headquarters in NWFP",
-      "parent_city": null,
-      "source": "gazetteer_w2v_alias",
-      "matched_to": "Bannu",
-      "edit_distance": 1,
-      "edit_ratio": 0.8,
-      "w2v_similarity": 0.5418,
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirts_2_pesh_city_1930_p021"
-      ]
-    },
-    "Koohien": {
-      "lat": 34.055,
-      "lon": 71.73,
-      "type": "village",
-      "note": "Village in the Peshawar valley, frequently referenced in Red Shirt movement reports.",
-      "parent_city": null,
-      "source": "gazetteer_edit_alias",
-      "matched_to": "Kochian",
-      "edit_distance": 1,
-      "edit_ratio": 0.857,
-      "confidence": 0.75,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirts_2_pesh_city_1930_p022"
       ]
     },
     "Risalpur": {
@@ -7527,287 +4962,6 @@
         "khudai_khidmatgar_1946_p105"
       ]
     },
-    "Kocian": {
-      "lat": 34.055,
-      "lon": 71.73,
-      "type": "village",
-      "note": "Village in the Peshawar valley, frequently referenced in Red Shirt movement reports.",
-      "parent_city": null,
-      "source": "gazetteer_exact",
-      "matched_to": "Kochian",
-      "confidence": 1.0,
-      "found_in_sources": [
-        "regex_original",
-        "ner_english",
-        "regex_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "c_red_shirts_2_pesh_city_1930_p003"
-      ]
-    },
-    "Mazera": {
-      "lat": 34.14,
-      "lon": 71.73,
-      "type": "village",
-      "note": "Village in the Charsadda/Peshawar area associated with Red Shirt activity.",
-      "parent_city": null,
-      "source": "gazetteer_edit_alias",
-      "matched_to": "Mahzara",
-      "edit_distance": 1,
-      "edit_ratio": 0.857,
-      "confidence": 0.75,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 2,
-      "page_ids": [
-        "camscanner_15_01_2026_1410_p133",
-        "camscanner_15_01_2026_1410_p088"
-      ]
-    },
-    "Peshewer City": {
-      "lat": 34.0151,
-      "lon": 71.5249,
-      "type": "city",
-      "note": "Capital of the North-West Frontier Province",
-      "parent_city": null,
-      "source": "gazetteer_substring",
-      "matched_to": "Peshawar",
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 2,
-      "page_ids": [
-        "camscanner_15_01_2026_1410_p047",
-        "camscanner_15_01_2026_1410_p053"
-      ]
-    },
-    "Peshave": {
-      "lat": 34.0151,
-      "lon": 71.5249,
-      "type": "city",
-      "note": "Capital of the North-West Frontier Province",
-      "parent_city": null,
-      "source": "gazetteer_edit_alias",
-      "matched_to": "Peshawar",
-      "edit_distance": 1,
-      "edit_ratio": 0.875,
-      "confidence": 0.75,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "camscanner_15_01_2026_1410_p047"
-      ]
-    },
-    "Heripur": {
-      "lat": 33.9942,
-      "lon": 72.94,
-      "type": "town",
-      "note": "Town in Hazara district",
-      "parent_city": null,
-      "source": "gazetteer_edit_key",
-      "matched_to": "Haripur",
-      "edit_distance": 1,
-      "edit_ratio": 0.857,
-      "confidence": 0.78,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "camscanner_15_01_2026_1410_p056"
-      ]
-    },
-    "Peshawer City": {
-      "lat": 34.0151,
-      "lon": 71.5249,
-      "type": "city",
-      "note": "Capital of the North-West Frontier Province",
-      "parent_city": null,
-      "source": "gazetteer_substring",
-      "matched_to": "Peshawar",
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "camscanner_15_01_2026_1410_p057"
-      ]
-    },
-    "Swabi Tehsil": {
-      "lat": 34.12,
-      "lon": 72.47,
-      "type": "town",
-      "note": "Town in Peshawar valley",
-      "parent_city": null,
-      "source": "gazetteer_exact",
-      "matched_to": "Swabi",
-      "confidence": 0.9,
-      "found_in_sources": [
-        "regex_english"
-      ],
-      "page_count": 6,
-      "page_ids": [
-        "camscanner_15_01_2026_1410_p057",
-        "camscanner_15_01_2026_1410_p058",
-        "camscanner_15_01_2026_1410_p060",
-        "camscanner_15_01_2026_1410_p061",
-        "camscanner_15_01_2026_1410_p067",
-        "camscanner_15_01_2026_1410_p068"
-      ]
-    },
-    "Nahzare": {
-      "lat": 34.14,
-      "lon": 71.73,
-      "type": "village",
-      "note": "Village in the Charsadda/Peshawar area associated with Red Shirt activity.",
-      "parent_city": null,
-      "source": "gazetteer_edit_alias",
-      "matched_to": "Mahzara",
-      "edit_distance": 1,
-      "edit_ratio": 0.857,
-      "confidence": 0.75,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "camscanner_15_01_2026_1410_p060"
-      ]
-    },
-    "Bannu Districts": {
-      "lat": 32.9891,
-      "lon": 70.606,
-      "type": "town",
-      "note": "District headquarters in NWFP",
-      "parent_city": null,
-      "source": "gazetteer_substring",
-      "matched_to": "Bannu",
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "camscanner_15_01_2026_1410_p066"
-      ]
-    },
-    "Nowshera Kalan": {
-      "lat": 34.0153,
-      "lon": 71.9747,
-      "type": "town",
-      "note": "Garrison town on the Grand Trunk Road",
-      "parent_city": null,
-      "source": "gazetteer_substring",
-      "matched_to": "Nowshera",
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "camscanner_15_01_2026_1410_p079"
-      ]
-    },
-    "Utanzani": {
-      "lat": 34.1765,
-      "lon": 71.7847,
-      "type": "village",
-      "note": "Village in Charsadda district, birthplace of Khan Abdul Ghaffar Khan and headquarters of the Khudai Khidmatgar movement.",
-      "parent_city": null,
-      "source": "gazetteer_edit_alias",
-      "matched_to": "Utmanzai",
-      "edit_distance": 1,
-      "edit_ratio": 0.875,
-      "confidence": 0.75,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "camscanner_15_01_2026_1410_p085"
-      ]
-    },
-    "Turangai": {
-      "lat": 34.202,
-      "lon": 71.875,
-      "type": "village",
-      "note": "Village near Charsadda, home of the Mullah of Turangzai (Fazlul Wahid), a prominent frontier resistance figure.",
-      "parent_city": null,
-      "source": "gazetteer_exact",
-      "matched_to": "Turangzai",
-      "confidence": 0.9,
-      "found_in_sources": [
-        "ner_english",
-        "regex_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "camscanner_15_01_2026_1410_p085"
-      ]
-    },
-    "Shave": {
-      "lat": 34.0151,
-      "lon": 71.5249,
-      "type": "city",
-      "note": "Capital of the North-West Frontier Province",
-      "parent_city": null,
-      "source": "gazetteer_substring",
-      "matched_to": "Peshawar",
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "camscanner_15_01_2026_1448_p011"
-      ]
-    },
-    "Peshawa": {
-      "lat": 34.0151,
-      "lon": 71.5249,
-      "type": "city",
-      "note": "Capital of the North-West Frontier Province",
-      "parent_city": null,
-      "source": "gazetteer_w2v_alias",
-      "matched_to": "Peshawar",
-      "edit_distance": 1,
-      "edit_ratio": 0.875,
-      "w2v_similarity": 0.6375,
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "khudai_khidmatgar_1946_p104"
-      ]
-    },
-    "Turanezai": {
-      "lat": 34.202,
-      "lon": 71.875,
-      "type": "village",
-      "note": "Village near Charsadda, home of the Mullah of Turangzai (Fazlul Wahid), a prominent frontier resistance figure.",
-      "parent_city": null,
-      "source": "gazetteer_w2v_alias",
-      "matched_to": "Turangzai",
-      "edit_distance": 1,
-      "edit_ratio": 0.889,
-      "w2v_similarity": 0.663,
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "khudai_khidmatgar_1946_p106"
-      ]
-    },
     "Herat": {
       "lat": 34.3529,
       "lon": 62.204,
@@ -7820,65 +4974,15 @@
       "found_in_sources": [
         "regex_english"
       ],
-      "page_count": 1,
+      "page_count": 3,
       "page_ids": [
-        "khudai_khidmatgar_1946_p035"
-      ]
-    },
-    "Pasherat": {
-      "lat": 34.3529,
-      "lon": 62.204,
-      "type": "city",
-      "note": "Historic city in western Afghanistan",
-      "parent_city": null,
-      "source": "gazetteer_substring",
-      "matched_to": "Herat",
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
+        "khudai_khidmatgar_1946_p035",
+        "c_red_shirts_1_pesh_city_1930_pdf_p064",
         "khudai_khidmatgar_1946_p053"
-      ]
-    },
-    "Umarzai": {
-      "lat": 34.1765,
-      "lon": 71.7847,
-      "type": "village",
-      "note": "Village in Charsadda district, birthplace of Khan Abdul Ghaffar Khan and headquarters of the Khudai Khidmatgar movement.",
-      "parent_city": null,
-      "source": "gazetteer_w2v_alias",
-      "matched_to": "Utmanzai",
-      "edit_distance": 2,
-      "edit_ratio": 0.75,
-      "w2v_similarity": 0.5374,
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
       ],
-      "page_count": 1,
-      "page_ids": [
-        "khudai_khidmatgar_1946_p074"
-      ]
-    },
-    "Pashawar": {
-      "lat": 34.0151,
-      "lon": 71.5249,
-      "type": "city",
-      "note": "Capital of the North-West Frontier Province",
-      "parent_city": null,
-      "source": "gazetteer_edit_key",
-      "matched_to": "Peshawar",
-      "edit_distance": 1,
-      "edit_ratio": 0.875,
-      "confidence": 0.78,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "khudai_khidmatgar_1946_p076"
+      "merged_aliases": [
+        "Cherat",
+        "Pasherat"
       ]
     },
     "Dahgari": {
@@ -7900,113 +5004,6 @@
         "red_shirt_6_1931_pesh_dist_p001"
       ]
     },
-    "Manshera": {
-      "lat": 34.3294,
-      "lon": 73.1972,
-      "type": "town",
-      "note": "Town in Hazara region",
-      "parent_city": null,
-      "source": "gazetteer_exact",
-      "matched_to": "Mansehra",
-      "confidence": 0.9,
-      "found_in_sources": [
-        "ner_english",
-        "regex_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "red_shirt_6_1931_pesh_dist_p003"
-      ]
-    },
-    "Dik": {
-      "lat": 31.8314,
-      "lon": 70.9017,
-      "type": "town",
-      "note": "District headquarters in NWFP",
-      "parent_city": null,
-      "source": "gazetteer_exact",
-      "matched_to": "Dera Ismail Khan",
-      "confidence": 0.9,
-      "found_in_sources": [
-        "regex_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "red_shirt_6_1931_pesh_dist_p003"
-      ]
-    },
-    "Dera Ismail": {
-      "lat": 31.8314,
-      "lon": 70.9017,
-      "type": "town",
-      "note": "District headquarters in NWFP",
-      "parent_city": null,
-      "source": "gazetteer_exact",
-      "matched_to": "Dera Ismail Khan",
-      "confidence": 0.9,
-      "found_in_sources": [
-        "regex_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "red_shirt_6_1931_pesh_dist_p034"
-      ]
-    },
-    "Porhawar": {
-      "lat": 34.0151,
-      "lon": 71.5249,
-      "type": "city",
-      "note": "Capital of the North-West Frontier Province",
-      "parent_city": null,
-      "source": "gazetteer_w2v_alias",
-      "matched_to": "Peshawar",
-      "edit_distance": 2,
-      "edit_ratio": 0.75,
-      "w2v_similarity": 0.5374,
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "red_shirt_6_1931_pesh_dist_p041"
-      ]
-    },
-    "Kohaton": {
-      "lat": 33.5869,
-      "lon": 71.4414,
-      "type": "town",
-      "note": "District headquarters in NWFP",
-      "parent_city": null,
-      "source": "gazetteer_substring",
-      "matched_to": "Kohat",
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "red_shirt_6_1931_pesh_dist_p069"
-      ]
-    },
-    "Turang": {
-      "lat": 34.202,
-      "lon": 71.875,
-      "type": "village",
-      "note": "Village near Charsadda, home of the Mullah of Turangzai (Fazlul Wahid), a prominent frontier resistance figure.",
-      "parent_city": null,
-      "source": "gazetteer_substring",
-      "matched_to": "Turangzai",
-      "confidence": 0.6,
-      "found_in_sources": [
-        "ner_english"
-      ],
-      "page_count": 2,
-      "page_ids": [
-        "tribal_research_cell_1968_p016",
-        "tribal_research_cell_1968_p017"
-      ]
-    },
     "Masjid": {
       "lat": 34.008,
       "lon": 71.569,
@@ -8023,23 +5020,6 @@
       "page_ids": [
         "tribal_research_cell_1968_p023",
         "tribal_research_cell_1968_p004"
-      ]
-    },
-    "Namak Mandi Peshawar": {
-      "lat": 34.009,
-      "lon": 71.561,
-      "type": "bazaar",
-      "note": "Salt market in Peshawar",
-      "parent_city": "Peshawar",
-      "source": "gazetteer_exact",
-      "matched_to": "Namak Mandi",
-      "confidence": 0.9,
-      "found_in_sources": [
-        "regex_english"
-      ],
-      "page_count": 1,
-      "page_ids": [
-        "tribal_research_cell_1968_p026"
       ]
     },
     "Mohallah": {
