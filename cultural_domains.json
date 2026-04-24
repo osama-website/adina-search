@@ -1,0 +1,105 @@
+{
+  "_description": "Curated mapping of LCSH concept roots to 8 anthropological macro-domains. A concept may map to multiple domains. Matching is case-insensitive substring on the first segment of the subject string. Authored by hand for the Tozzer Explorer.",
+  "_version": "1.0",
+  "domains": [
+    {
+      "id": "d01",
+      "label": "Kinship, Marriage & Family",
+      "keywords": [
+        "kinship", "marriage", "family", "descent", "lineage", "clan",
+        "divorce", "polygamy", "polygyny", "polyandry", "matrilineal",
+        "patrilineal", "matrilocal", "patrilocal", "households",
+        "incest", "kin", "genealogy", "affinity", "filiation",
+        "bride price", "dowry", "alliance theory"
+      ]
+    },
+    {
+      "id": "d02",
+      "label": "Religion & Ritual",
+      "keywords": [
+        "religion", "ritual", "cosmology", "mythology", "myth",
+        "shamanism", "shaman", "sacrifice", "ceremony", "ceremonies",
+        "pilgrimage", "witchcraft", "sorcery", "divination", "magic",
+        "ancestor worship", "animism", "totemism", "spirit", "spirits",
+        "deities", "sacred", "taboo", "ritual objects", "cult",
+        "initiation", "rites", "rites of passage", "death rites",
+        "funeral", "funerary", "religious life", "religious practices"
+      ]
+    },
+    {
+      "id": "d03",
+      "label": "Economics & Subsistence",
+      "keywords": [
+        "subsistence", "economics", "economy", "agriculture", "farming",
+        "hunting", "gathering", "hunting and gathering", "fishing",
+        "pastoralism", "pastoralists", "herding", "trade", "exchange",
+        "barter", "markets", "reciprocity", "gift", "labor", "work",
+        "food", "cuisine", "diet", "domestication", "cultivation",
+        "horticulture", "pottery", "craft", "crafts", "textiles",
+        "land tenure", "property", "wealth"
+      ]
+    },
+    {
+      "id": "d04",
+      "label": "Politics, Law & Social Organization",
+      "keywords": [
+        "politics", "political", "government", "law", "legal", "authority",
+        "chieftainship", "kingship", "kings and rulers", "leadership",
+        "conflict", "war", "warfare", "feud", "headhunting",
+        "tribal government", "colonialism", "imperialism", "resistance",
+        "rebellion", "revolution", "ethnic relations", "ethnic conflict",
+        "social organization", "social structure", "caste", "class",
+        "stratification", "hierarchy", "egalitarian"
+      ]
+    },
+    {
+      "id": "d05",
+      "label": "Material Culture & Technology",
+      "keywords": [
+        "material culture", "technology", "tools", "implements",
+        "stone implements", "weapons", "pottery", "ceramics", "basketry",
+        "textiles", "weaving", "metallurgy", "architecture", "dwellings",
+        "houses", "settlements", "boats", "canoes", "clothing", "costume",
+        "jewelry", "adornment", "ornaments", "artifacts", "industries",
+        "antiquities"
+      ]
+    },
+    {
+      "id": "d06",
+      "label": "Art & Symbolism",
+      "keywords": [
+        "art", "indian art", "primitive art", "pictorial works",
+        "petroglyphs", "pictographs", "rock art", "rock paintings",
+        "sculpture", "carving", "masks", "painting", "music", "dance",
+        "song", "songs", "symbolism", "symbols", "aesthetics",
+        "performance", "theater", "dramatic arts", "design",
+        "ornamentation", "drawings", "inscriptions"
+      ]
+    },
+    {
+      "id": "d07",
+      "label": "Language & Communication",
+      "keywords": [
+        "language", "languages", "linguistics", "dialect", "dialects",
+        "vocabulary", "grammar", "phonology", "phonetics", "morphology",
+        "syntax", "writing", "writings", "orthography", "alphabet",
+        "script", "scripts", "glyphs", "hieroglyphs", "oral tradition",
+        "oral history", "folklore", "stories", "narratives", "literature",
+        "proverbs", "discourse", "speech", "communication", "semiotics"
+      ]
+    },
+    {
+      "id": "d08",
+      "label": "Body, Health & Life Cycle",
+      "keywords": [
+        "body", "human body", "medicine", "medical", "disease", "diseases",
+        "health", "healing", "illness", "traditional medicine",
+        "ethnomedicine", "ethnobotany", "herbalism", "shamanic healing",
+        "childbirth", "pregnancy", "children", "childhood", "infancy",
+        "aging", "elders", "death", "mortuary", "burial", "burial customs",
+        "cemeteries", "sexuality", "gender", "sex role", "sex roles",
+        "women", "men", "mental health"
+      ]
+    }
+  ]
+}
